@@ -217,6 +217,8 @@ El favor de Perséfone implica que ella le pregunte a Zagreo si fue una buena ma
 
 De manera curiosa, en la nota Perséfone no menciona a Zagreo y, en cambio, expresa sus buenos deseos para Cerbero. Es el narrador quien accidentalmente revela a Zagreo su relación con ella, desencadenando así su deseo de escapar de la Casa. Nyx, quien se hizo cargo de Zagreo tras la partida de Perséfone, indica que esta revelación sobre su linaje y las mentiras de Perséfone y Hades solo cuentan la mitad de la historia. Finalmente, se descubre que Zagreo nació inicialmente sin vida y, por lo tanto, no fue nombrado hasta que Nyx persuadió a las Parcas para que lo revivieran. Perséfone, considerando esto una tragedia, optó por no mencionar este hecho.
 
+---
+
 ## Megera
 
 Megera es una de las tres hermanas Erinias, junto con Alecto y Tisífone.
@@ -284,6 +286,8 @@ Al usar las Medidas Extremas Nivel 1 del Pacto de Castigo, Megera tiene la posib
 - Support Flame: Megera invoca un gran círculo de fuego cerca de la posición actual de Zagreo, infligiendo 8 de daño cuando se activa si está dentro de él.
 
 - Support Volley: Megera invoca una columna de fuego que dispara una ráfaga de disparos rápidos alrededor de la arena, infligiendo 4 de daño al impacto. Esta habilidad solo puede usarse si la furia principal tiene menos del 50% de su salud máxima.
+
+---
 
 ## Tanatos
 
@@ -355,5 +359,303 @@ Los ataques de Thanatos son lentos y con retraso, lo que le da a Zagreo la oport
 
 En Elíseo, las Ruedas de Llama que se autodestruyen no se cuentan como puntos. Los guerreros exaltados cuentan como dos puntos, una vez cuando están empuñando armas y otra vez cuando están en su forma de alma sin armas. Los guerreros exaltados no generarán un alma cuando Thanatos los mate, pero solo contarán como un punto para él.
 
+---
+
 ## Nicte
 
+Nicte, también conocida como "Nix" o "Madre Noche", es la personificación de la noche y reside en la Casa de Hades. Junto con su esposo Érebos, es madre de treinta dioses ctónicos.
+
+Tras la partida de Perséfone del Inframundo, Nicte se convirtió en la principal cuidadora de Zagreo. Ganó el favor de los Dioses del Olimpo y proporcionó a Zagreo el Espejo de la Noche para ayudarlo en sus intentos de escape.
+
+Desempeña un papel administrativo en la Casa de Hades, dejando la burocracia y el gobierno a Hades. Se la puede ver aconsejando y dando instrucciones a Megera, así como supervisando y revisando el trabajo diario con Dusa.
+
+### Título
+
+Encarnación de la Noche
+
+### Relaciones
+
+- Caos (Madre)
+- Gaia (Hermana)
+- Érebos (Esposo)
+- Caronte (Hijo)
+- Némesis (Hija)
+- Tánatos (Hijo)
+- Hipnos (Hijo)
+- Eris (Hija)
+- Moros (Hijo)
+- Átropos (Hija)
+- Láquesis (Hija)
+- Cloto (Hija)
+- Zagreo (Hijo Adoptivo)
+
+
+### Doblaje
+
+Jamie Landrum
+
+### Afinidad
+
+Si le entregas néctar a Nicte, ella te recompensará con el Chal Negro. Una vez que le hayas dado 6 néctares, no aceptará más hasta que completes un favor para ella. Este favor implica cumplir la profecía "Noche y Oscuridad" del listado de profecías menores, lo que requiere que compres una orden de trabajo para restaurar el Sello Mayor en la Cámara Administrativa.
+
+Al completar este favor, podrás empezar a darle ambrosía. Sin embargo, a diferencia de otros personajes, Nicte no te entregará un compañero. La barra de afinidad de Nicte se completa con 6 néctares y 3 ambrosías, sumando un total de 9 corazones
+
+#### Favor
+
+El favor de Nicte forma parte de la Lista de Profecías Menores y requiere que la reúnas con Caos. En algún momento, Nicte te dirá que ha sentido los intentos de Caos por comunicarse con ella. Luego te informará que el puente hacia Caos no puede ser accedido actualmente a través del sigilo más antiguo en la cámara administrativa, pero que puedes cambiar esto utilizando una cierta cantidad de Oscuridad. Una mejora estará disponible en el Contratista de la Casa, requiriendo 3142 de Oscuridad. La razón precisa de este valor no se conoce, pero es la constante pi redondeada a cuatro dígitos multiplicada por mil, y también el número total de dioses griegos según el Proyecto Theoi. Anteriormente, el valor era de 8888 de Oscuridad. Una vez comprada, Nicte usará el sigilo más antiguo para visitar el reino de Caos, y puedes incluso encontrarla allí durante tu recorrido. Cuando regrese a la Casa de Hades, su medidor de afinidad ya no estará bloqueado y podrás darle Ambrosía.
+
+### Entrada del Códice
+
+
+...Madre Noche, como nos gusta llamarla, aunque es rara la ocasión en que nos demuestra su afecto. Tiene muchos, muchísimos hijos a los que cuidar, muchos de los cuales ahora residen en lugares más allá de mi entendimiento, y quizás más allá del suyo. Sin embargo, a pesar de esto, trabaja en la Casa del Amo y maneja asuntos que no llegan a su conocimiento o atención. Ella y el Amo disfrutan de una especie de armonía, ya que mientras él se ocupa personalmente de los muertos, ella vigila el dominio en sí. Se toleran mutuamente, en respeto al poder del otro.
+
+Desbloquear la entrada completa del Códice requiere profundizar en la relación de Zagreo con Nicte.
+
+Ella podría haber hecho la vida del Amo eternamente más difícil aquí abajo, si así lo hubiera querido. Quizás tenía todo el derecho, cuando sus propias hijas, las Parcas, determinaron que el Amo debía gobernar donde una vez ella sola presidía. Pero, Madre Noche no posee el orgullo de un mortal; y su compromiso con el Inframundo y sus hijos es absoluto.
+
+### Relaciones
+
+Hades:
+Hades y Nyx gestionan juntos el dominio del Inframundo. Aunque principalmente se toleran y respetan a regañadientes, parece que Hades tiene cierto poder sobre Nyx, ya que él controla el castigo de los Titanes y dioses primordiales. Nyx parece tener un acuerdo con él para evitar un destino similar.
+
+Zagreus:
+Nyx cuida a Zagreus como si fuera su propio hijo. Apoya plenamente su decisión de irse y lo ayuda proporcionándole el Espejo de la Noche y contactando a los olímpicos en su nombre.
+
+Perséfone:
+Perséfone y Nyx compartieron una relación amistosa durante el tiempo de Perséfone como Reina del Inframundo antes del nacimiento de Zagreus. Nyx describe a Perséfone como respetable y majestuosa, mientras que Perséfone agradecía la compañía y el apoyo de Nyx durante su estancia inicial en el Inframundo, afirmando más tarde que la extrañaba a ella y a Cerbero más que a cualquier otro habitante del Inframundo. Tras el regreso de Perséfone al Inframundo, ambas continúan llevándose bien, y Perséfone está agradecida por el papel de Nyx en su reencuentro con Zagreus y su rol como madre adoptiva en su ausencia.
+
+Megera:
+Nyx actúa como asesora y empleadora directa de Megaera. La consuela y le recuerda su deber en la Casa de Hades.
+
+Tánatos:
+Nyx parece tener una relación positiva con su hijo Tánatos. Él se ofrece a ayudar en la Casa, pero ella lo anima a seguir ayudando a su manera.
+
+Hipnos:
+Creyendo que Hipnos depende demasiado de ella, Nyx busca fomentar la independencia de su hijo manteniendo cierta distancia en su relación. Le instruye que evite llamarla "mamá" en el Gran Salón y le pide que no la involucre en conversaciones. Nyx rara vez elogia a Hipnos, y cuando lo hace, él asume que alguien más lo ha hecho. A pesar de esto, los intentos de Nyx de fomentar la independencia de Hipnos parecen surgir tanto del cuidado maternal como de sus preocupaciones sobre la ética laboral de Hipnos. Ella se siente reconfortada al ver que Hipnos demuestra ser capaz y establece límites que cree son en su mejor interés.
+
+Caos:
+Nyx siente cierto arrepentimiento por estar tan distanciada de su propio padre, Caos, ya que no han hablado desde el principio de la creación. Esto se debe a las expectativas que Caos tenía sobre Nyx y a que ella estaba ocupada con su trabajo y forjando su propio camino. Zagreus puede ayudarla a reunirse con Caos, lo que les permitirá reavivar su relación.
+
+---
+
+## Orfeo
+
+Orfeo es un músico legendario, célebre por los mitos y relatos que lo rodean. En su vida, sufrió la pérdida de su esposa y musa, Eurídice, lo que lo llevó a aventurarse en el Inframundo para suplicar su regreso. Aunque no logró resucitarla, su propia muerte le permitió impresionar a Hades con su música, quien lo contrató como músico de la corte. Sin embargo, la pérdida de su musa lo dejó incapaz de seguir componiendo y cantando, aunque parece que podría ser persuadido de algún modo.
+
+Antes de los eventos de Hades, Orfeo estaba en confinamiento solitario impuesto por Hades por haberse negado a cantar para él. Esta sentencia puede ser revocada comprando la "Condena del músico" en la tienda del contratista de la morada, por un costo de 1 diamante. Una vez revocada la condena, Orfeo aparecerá inmediatamente en la morada de Hades.
+
+### Título
+
+Músico de la Corte
+
+### Relaciones
+
+- Eurídice (Esposa)
+
+###
+
+Morada de Hades
+
+### Doblaje
+
+Michael Alishie(Hablando)
+Darren Korb(Cantando)
+
+### Aspecto
+
+Orfeo es una figura demacrada y abatida por la pérdida de su musa y los interminables años de encierro. A pesar de su tristeza, su voz sigue siendo una de sus mayores virtudes.
+
+### Afinidad
+
+Si le entregas néctar a Orfeo, te recompensará con la Memoria Distante. Tras recibir un solo néctar, Orfeo comenzará a cantar nuevamente, mencionando que la determinación de Zagreo le ha inspirado a pesar de la pérdida de su musa. De vez en cuando, podrás escuchar a Orfeo cantando cuando Zagreo regrese a la morada.
+
+La afinidad con Orfeo alcanzará su máximo valor cuando llegues a 8 corazones.
+
+#### Favor
+
+El favor de Orfeo se consigue anulando su contrato, lo cual le permitirá visitar a Eurídice en los Asfódelos.
+
+Mientras fortaleces tu relación tanto con Orfeo como con Eurídice, Zagreo pedirá a Eurídice una copia de su canción "Good Riddance", la cual compartirá con Orfeo. Después de recibir la canción, Orfeo comenzará a cantarla en la Casa. Tras varias conversaciones más con ambos, Eurídice iniciará una reunión con:
+
+¿Y ahora qué, pimpollo? Es decir, ahora que me has hecho pensar otra vez en Orfeo, me pregunto qué tengo que hacer.
+
+Para poder seguir avanzando, necesitarás:
+
+- Que tanto Orfeo como Eurídice tengan una relación contigo de, como mínimo, 5 corazones
+
+- Tener acceso a la cámara administrativa (comprada a través del contratista de la morada)
+
+- Una charla con Nyx (que debe tener 5 corazones) sobre la Cámara Administrativa (también puede ser desencadenada al comenzar la misión de liberación de Sísifo).
+
+- Una conversación con Hades sobre el contrato de Orfeo (que requiere que Orfeo haya comenzado a cantar nuevamente).
+
+- Una conversación de seguimiento con Nyx sobre la condena de Orfeo, en la que ella te dice la ubicación de su expediente en la Cámara Administrativa.
+
+Después de encontrar el documento en la Cámara Administrativa, habla con el Contratista de la Casa para comprar la Condena del Músico de la Corte por 3 Diamantes.
+
+La siguiente conversación que tengas con Orfeo hará que te ganes su favor, y completará la profecía "Músico y musa" de la lista de augurios menores.
+
+### Entrada del Códice
+
+… Nadie entona un canto más dulce y triste que Orfeo, quien, si no me equivoco, se cuenta entre los escasos mortales que se aventuraron a bajar al Inframundo y vivieron para contarlo. Ahora habita de manera permanente entre nosotros, apenado por lo que pudo haber sido y nunca fue. El patrono, sin embargo, parece apiadarse de él. O sencillamente le gustan sus cánticos, pues Orfeo ejerce de músico de corte en la morada. Empatizo con su deseo de reunirse con la sombra de la persona que una vez amó y perdió. No obstante, en ocasiones, temo que el músico haya perdido más que su amor. Rezo para que, más pronto que tarde, encuentre a su musa. Pues si él no pudiera, si alguien con tal determinación indomable se rindiese, se resignase a su sino en la muerte... ¿cómo podemos albergar ninguna esperanza el resto de nosotros? El consuelo de la eternidad es saber que todos podemos resolver nuestros problemas con el tiempo y el esfuerzo suficientes. Pero el terror de ella es saber que no podemos escapar a nuestros problemas.
+
+### Canciones
+
+- El lamento de Orfeo: se desbloquea al regalar a Orfeo al menos un néctar.
+
+- Himno a Zagreo: Orfeo debe haber recuperado la voluntad de cantar y debes regalarle a Dionisio 1 Néctar. Se desbloquea mediante una conversación aleatoria con Dionisio en la que te pide que le mientas a Orfeo.
+
+- Buen Viaje: Zagreo debe haber comprado el Atril de Música de la Corte al Contratista de la Casa, haberse encontrado con Eurídice en Asfódelo y haber progresado lo suficiente en su historia como para obtener partituras de ella. Siguiendo estos pasos, la canción se puede desbloquear comprándola al Contratista, aunque Orfeo puede cantarla sin necesidad de comprarla.
+
+---
+
+## Euridice
+
+En el juego de Hades, Eurídice es un personaje importante que reside en los Asfódelos, una región del Inframundo. Es presentada como una ninfa del bosque que una vez fue la esposa de Orfeo, el talentoso músico y bardo del Inframundo. Eurídice es conocida por su habilidad en la música y la cocina, y su presencia en el juego añade una capa emocional y narrativa significativa.
+
+La historia de Eurídice en el juego está entrelazada con la de Orfeo y Zagreo (el protagonista). Después de la muerte de Eurídice, Orfeo desciende al Inframundo en un intento desesperado por traerla de vuelta a la vida. Su fallido intento y el posterior acuerdo con Hades para permitirle visitarla de vez en cuando establecen una trama importante en el juego.
+
+Los jugadores pueden interactuar con Eurídice durante sus viajes por el Inframundo. Ella ofrece varios servicios, como la mejora de las bendiciones de Zagreo con su comida y bebida especializadas. Además, Eurídice es un personaje profundamente emotivo, y sus interacciones con los jugadores y otros personajes proporcionan una ventana a su dolor y anhelo de libertad del Inframundo.
+
+La relación entre Orfeo y Eurídice también es un tema recurrente en el juego. Los jugadores pueden presenciar conversaciones entre ellos y participar en eventos que afectan su dinámica, como desbloquear nuevas canciones que ambos pueden cantar juntos.
+
+En resumen, Eurídice desempeña un papel importante en la trama y la experiencia del jugador en el juego de Hades, agregando profundidad emocional y una conexión con la mitología clásica.
+
+### Relaciones
+
+- Orfeo (Esposo)
+
+### Doblaje
+
+- Francesca Hogan (Hablando)
+- Ashley Barrett (Cantando)
+
+### Afinidad
+
+Si le regalas néctar, Eurídice te dará la Bellota Perenne. La afinidad de Eurídice llega a un máximo de 8 corazones.
+
+#### Favor
+
+Para ganarte el favor de Eurídice, hay que anular primero el contrato de Orfeo para que pueda visitarla en los Asfódelos
+
+### Personalidad y Características
+
+Eurídice es retratada como una figura gentil y compasiva, pero también como alguien profundamente afectado por su situación en el Inframundo. A pesar de su tristeza, muestra una fuerza interior y una habilidad para encontrar belleza y consuelo en la música y la cocina.
+
+### Entrada del Códice
+
+«… La mortalidad está más cercana a la inmortalidad de lo que creen los dioses. Existen ciertos dioses menores que pueden morir. Tal es el caso de las ninfas, las náyades, las dríades y todos los espíritus del bosque, de los mares y de los cielos. En vida, cautivan nuestra imaginación y nuestros sentidos de mortales; pero en la muerte, todos nos parecemos mucho más. A buen seguro que la ninfa Eurídice, nacida del mismísimo roble, lo sabrá mejor que nadie de su especie. Tenía un pretendiente que, a todas luces, era un simple mortal. Con un talento desbordante, eso sí, pero no era un dios. Pese a todo el amor que se profesaban, la muerte acabó desgarrándoles el corazón. Ella merece una mención especial por haber estado a punto de escapar del Inframundo. Tal era la ferviente devoción de su amado que este se aventuró en nuestro reino para buscarla e interceder por su alma ante Hades. Se dice que el patrono estuvo a punto de dejarla marchar. Sin embargo, cuando al fin dijo que no, aunque lo lamentó, no se dejó llevar por la desesperación. Incluso en la muerte, siguió con su vida.»
+
+### Objetos que te ofrece
+
+- **Delicia de ambrosía**: Adorada por los dioses. Mejora hasta 2 bendiciones aleatorias hasta el siguiente nivel de rareza.
+
+- **Mermelada de granada**: Este manjar del Inframundo hace que hasta 4 bendiciones cualesquiera aumenten 1 nivel.*
+
+- **Néctar refrescante**: Con esta aromática y excepcional bebida, las próximas 3 bendiciones que encuentres tendrán una rareza mejorada.**
+
+Notas:
+
+1- No se acumula en la misma bendición.
+
+2- Si una bendición ya está en nivel épico, permanecerá en dicho nivel en lugar de ser mejorada a nivel heroico.
+
+### Relación con Orfeo
+
+La relación entre Eurídice y Orfeo es uno de los aspectos más destacados de su personaje en el juego. A medida que los jugadores interactúan con ambos personajes, pueden descubrir más sobre su pasado compartido, su amor mutuo y los desafíos que enfrentan debido a su separación por la muerte.
+
+### Desarrollo de la historia
+
+A lo largo del juego, los jugadores pueden desbloquear nuevas conversaciones y eventos que profundizan en la historia y la relación entre Eurídice y otros personajes, especialmente Orfeo y Zagreo. Estos eventos pueden revelar nuevos detalles sobre su situación en el Inframundo y ofrecer a los jugadores la oportunidad de influir en su destino.
+
+### Canciones
+
+- Good Riddance: Interpretada por el personaje antes y después de que Zagreo interactúe con ella, cambiando a una versión puramente instrumental durante la interacción.
+
+Después de que se le permita a Orfeo visitar a Eurídice, también puede estar cantándola con ella.
+
+- In the Blood: una versión simplificada que tanto Eurídice como Orfeo pueden estar cantando en lugar de "Good Riddance" después de que Zagreo solicite a Orfeo en la Casa de Hades que la cante.
+
+---
+
+## Hidra Calaverica
+
+La Hidra Calavérica es el remanente de la legendaria Hidra de Lerna, una formidable bestia derrotada por el semidiós Heracles como parte de sus doce trabajos. Ahora, este ser habita en el Flegetonte, el río abrasador que atraviesa los Asfódelos, custodiando la entrada al Elíseo.
+
+El enfrentamiento con la Hidra Calavérica representa el combate final en los Asfódelos y es el segundo jefe del juego. Siempre se encontrará en la cámara número 24, la última cámara de los Asfódelos.
+
+### Ubicación 
+
+Asfódelos
+
+### Estilo de combate
+
+Variados
+
+### Salud
+
+5940 (Hidra principal)
+820 (410 de blindaje, 410 de salud) (Hidras de apoyo)
+
+### Combate
+
+Enfrentarás a la Hidra Calavérica en un escenario especialmente diseñado para el combate contra ella. Este escenario tiene una forma semihexagonal y consiste en una isla rodeada de magma. En las esquinas superiores de la isla, encontrarás dos vasijas que contienen salud para recuperarte, mientras que en el centro hay cuatro pilares indestructibles. La hidra emergirá desde la parte central superior y, con sus ataques, avanzará hacia el centro de la isla.
+
+Los ataques de la Hidra Ósea comienzan siendo relativamente simples y se vuelven más complejos a medida que avanza la pelea. Inicia el combate con tres habilidades: Embestida, Descarga y Golpe de Tierra.
+
+- **Embestida**: La cabeza de la hidra se lanza en dirección a Zagreo después de un breve retraso, infligiendo 5 puntos de daño.
+
+- Cuando la hidra alcanza el 66% de su salud máxima, el daño de la Embestida aumenta a 16. Las Cabezas de Apoyo continúan infligiendo 5 puntos de daño.
+
+- **Descarga**: La cabeza de la hidra retrocede hacia la parte superior de la isla y lanza un chorro de cinco proyectiles lentos que se dirigen hacia la posición actual de Zagreo.
+
+- Cuando la hidra alcanza el 66% de su salud máxima, la Descarga se convierte en Barrage. La hidra retrocede rápidamente hasta el borde superior para lanzar una gran cantidad de proyectiles rápidos en dirección y área general de Zagreo, los cuales rodearán la arena y se dirigirán hacia él. Mientras al menos una Cabeza de Apoyo esté viva, este ataque vuelve a ser Descarga.
+
+- **Golpe de Tierra**: La cabeza de la hidra se golpea contra el suelo debajo de ella, infligiendo 16 puntos de daño en una onda de choque a su alrededor.
+
+- Cuando la hidra alcanza el 33% de su salud máxima, el Golpe de Tierra se convierte en Triple Golpe de Tierra, y hace que la hidra golpee su cabeza contra el suelo tres veces en rápida sucesión. La cabeza puede moverse hacia Zagreo una corta distancia entre cada rebote. Las Cabezas de Apoyo de Combate no tienen acceso al Triple Golpe de Tierra y solo atacarán con su Golpe de Tierra normal.
+
+También tiene 4 opciones de variante que pueden activarse después de que el jugador la haya derrotado tres veces, basadas en lo que las Cabezas de Apoyo pueden hacer.
+
+Variantes de la Hidra:
+
+- **Martillo (Variante Blanco-Azul) - Golpe de Tierra**: Hace que hasta 10 pedazos de escombros caigan en el escenario, infligiendo 9 puntos de daño cada uno. No puede Descargar.
+
+- Cuando alcanza el 66% de su salud máxima, el Golpe de Tierra se convierte en Triple Golpe de Tierra, y hace que la Hidra golpee su cabeza contra el suelo tres veces en rápida sucesión. La cabeza puede moverse hacia Zagreo una corta distancia entre cada rebote. Cada rebote hace que caigan escombros.
+
+- Cuando alcanza el 33% de su salud máxima, el Golpe de Tierra se convierte en Super Golpe de Tierra, y hace que la Hidra golpee su cabeza contra el suelo de una a seis veces en rápida sucesión. La cabeza puede moverse hacia Zagreo una corta distancia entre cada rebote. Este ataque puede hacer que caigan de 10 a 40 piezas de escombros, independientemente de cuántas veces rebote.
+
+- **A distancia (Variante Naranja) - Escupida de Magma**: La habilidad de Descarga de la Hidra Ósea es reemplazada por la Escupida de Magma de las Cabezas de Apoyo Naranjas. Lanza de 3 a 5 bolas de fuego que cubren secciones del escenario cerca de la cabeza con magma temporal.
+
+- Después de ser reducida al 66% de su salud máxima, adquiere la habilidad adicional de lanzar de 8 a 11 bolas de fuego en un círculo alrededor de sí misma (en lugar de Barrage). A diferencia de Barrage, esta habilidad no se pierde mientras las Cabezas de Apoyo estén activas.
+
+- **Invocación (Variante Verde) - Súper Dientes de Hidra**: Escupe un orbe con 50 HP y 35 de Armadura que genera un Esqueleto Desangrado de Élite a menos que sea destruido en 5 segundos. También puede invocar un Machacacráneos que caiga sobre Zagreo. Muere inmediatamente después de aterrizar.
+
+- Cuando alcanza el 66% de su salud máxima, puede escupir 2 orbes a la vez cuando las Cabezas de Apoyo estén inactivas. También puede invocar dos Machacacráneos en sucesión.
+
+- Cuando alcanza el 33% de su salud máxima, puede escupir 3 orbes a la vez cuando las Cabezas de Apoyo estén inactivas. También puede invocar tres Machacacráneos en sucesión.
+
+- **Control (Variante Morada) - Ondas**: La Descarga se reemplaza con una serie de ataques de onda.
+
+Cuando alcanza el 66% y el 33% de su salud máxima, la Hidra se retira, volviéndose invulnerable y generando un número creciente de "Cabezas de Apoyo" adicionales en puntos fijos alrededor del borde del escenario. Estas cabezas adicionales tienen sus propias habilidades y deben ser derrotadas antes de que la cabeza principal vuelva a ser vulnerable al ataque.
+
+- Cuando alcanza el 66% de su salud máxima, invoca 3 Cabezas de Apoyo en los bordes del escenario.
+
+- Cuando alcanza el 33% de su salud máxima, invoca 6 Cabezas de Apoyo en los bordes del escenario.
+
+
+NOTA: Los efectos de daño en el tiempo aplicados antes de que la Hidra se volviera invulnerable no causarán daño una vez que se vuelva invulnerable entre rondas.
+
+### Recompensa
+
+Cuando la Hidra Ósea es derrotada, dejará caer un Diamante si se cumplen las condiciones de la Recompensa por Caza. Esto significa que debe ser la primera victoria de Zagreo contra ella con un arma, o que se deben cumplir las condiciones de Calor del Objetivo para ese arma. De lo contrario, dejará caer 100 Oscuridad. La recompensa de Oscuridad se ve afectada por Bendiciones y bonificaciones (Sed Oscura, El Botín del Océano de Poseidón, El Eclipse del Caos, etc.).
+
+Después de recoger la recompensa, la puerta en el lado opuesto de la cámara se abrirá, permitiendo a Zagreo acceder a la Cámara de la Escalera entre Asfódelo y Elíseo. En la cámara hay una Fuente de Sanación, un Pozo de Caronte, un Estanque de Purificación y el Soporte para Reliquias (si se ha comprado al Contratista de la Casa).
+
+### Entrada del Códice
+
+… Despojada de la carne que el héroe Heracles le arrancó y cauterizó, la Hidra habita ahora en el Inframundo, donde se cuece a fuego lento junto al tumultuoso río de fuego que llamamos Flegetonte. Vigila sin descanso ni piedad el pasaje que conduce al Elíseo, devorando a aquellas sombras que osan buscar consuelo en ese paradisíaco lugar.
+
+---
+
+## Aquiles
