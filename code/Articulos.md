@@ -418,11 +418,11 @@ Ella podría haber hecho la vida del Amo eternamente más difícil aquí abajo, 
 Hades:
 Hades y Nyx gestionan juntos el dominio del Inframundo. Aunque principalmente se toleran y respetan a regañadientes, parece que Hades tiene cierto poder sobre Nyx, ya que él controla el castigo de los Titanes y dioses primordiales. Nyx parece tener un acuerdo con él para evitar un destino similar.
 
-Zagreus:
-Nyx cuida a Zagreus como si fuera su propio hijo. Apoya plenamente su decisión de irse y lo ayuda proporcionándole el Espejo de la Noche y contactando a los olímpicos en su nombre.
+Zagreo:
+Nyx cuida a Zagreo como si fuera su propio hijo. Apoya plenamente su decisión de irse y lo ayuda proporcionándole el Espejo de la Noche y contactando a los olímpicos en su nombre.
 
 Perséfone:
-Perséfone y Nyx compartieron una relación amistosa durante el tiempo de Perséfone como Reina del Inframundo antes del nacimiento de Zagreus. Nyx describe a Perséfone como respetable y majestuosa, mientras que Perséfone agradecía la compañía y el apoyo de Nyx durante su estancia inicial en el Inframundo, afirmando más tarde que la extrañaba a ella y a Cerbero más que a cualquier otro habitante del Inframundo. Tras el regreso de Perséfone al Inframundo, ambas continúan llevándose bien, y Perséfone está agradecida por el papel de Nyx en su reencuentro con Zagreus y su rol como madre adoptiva en su ausencia.
+Perséfone y Nyx compartieron una relación amistosa durante el tiempo de Perséfone como Reina del Inframundo antes del nacimiento de Zagreo. Nyx describe a Perséfone como respetable y majestuosa, mientras que Perséfone agradecía la compañía y el apoyo de Nyx durante su estancia inicial en el Inframundo, afirmando más tarde que la extrañaba a ella y a Cerbero más que a cualquier otro habitante del Inframundo. Tras el regreso de Perséfone al Inframundo, ambas continúan llevándose bien, y Perséfone está agradecida por el papel de Nyx en su reencuentro con Zagreo y su rol como madre adoptiva en su ausencia.
 
 Megera:
 Nyx actúa como asesora y empleadora directa de Megaera. La consuela y le recuerda su deber en la Casa de Hades.
@@ -434,7 +434,7 @@ Hipnos:
 Creyendo que Hipnos depende demasiado de ella, Nyx busca fomentar la independencia de su hijo manteniendo cierta distancia en su relación. Le instruye que evite llamarla "mamá" en el Gran Salón y le pide que no la involucre en conversaciones. Nyx rara vez elogia a Hipnos, y cuando lo hace, él asume que alguien más lo ha hecho. A pesar de esto, los intentos de Nyx de fomentar la independencia de Hipnos parecen surgir tanto del cuidado maternal como de sus preocupaciones sobre la ética laboral de Hipnos. Ella se siente reconfortada al ver que Hipnos demuestra ser capaz y establece límites que cree son en su mejor interés.
 
 Caos:
-Nyx siente cierto arrepentimiento por estar tan distanciada de su propio padre, Caos, ya que no han hablado desde el principio de la creación. Esto se debe a las expectativas que Caos tenía sobre Nyx y a que ella estaba ocupada con su trabajo y forjando su propio camino. Zagreus puede ayudarla a reunirse con Caos, lo que les permitirá reavivar su relación.
+Nyx siente cierto arrepentimiento por estar tan distanciada de su propio padre, Caos, ya que no han hablado desde el principio de la creación. Esto se debe a las expectativas que Caos tenía sobre Nyx y a que ella estaba ocupada con su trabajo y forjando su propio camino. Zagreo puede ayudarla a reunirse con Caos, lo que les permitirá reavivar su relación.
 
 ---
 
@@ -889,3 +889,219 @@ Poseidón es un hombre mayor, pero aún robusto. Como el dios de los océanos, P
 
 ## Atena
 
+Atenea es la Diosa Olímpica de la sabiduría y la guerra estratégica. Ofrece bendiciones a Zagreo que hacen que sus habilidades desvíen los ataques enemigos. Además, también proporciona bendiciones que reducen el daño o aumentan otras opciones defensivas.
+
+Atenea brinda excelentes opciones defensivas con sus bendiciones, protegiéndote del daño al desviar proyectiles y ataques cuerpo a cuerpo enemigos, así como reducir el daño que recibirás en una partida.
+
+Su Maldición de Estado característica es Expuesto, lo que hace que los enemigos reciban daño adicional desde atrás. Esto se acumula con los bonos de Ataque por la Espalda ofrecidos por el Espejo de la Noche.
+
+Dado que su bendición es la recompensa por despejar la primera sala en una nueva partida, siempre será la primera de los dioses olímpicos en ser encontrada.
+
+### Título
+
+Diosa de la sabiduria
+
+### Relaciones
+
+- Zeus (Padre)
+- Metis (Madre)
+- Hades (Tio Paterno)
+- Poseidon (Tio Paterno)
+- Hestia (Tia)
+- Demeter (Tia)
+- Hera (Madrastra)
+- Ares (Medio Hermano Menor)
+- Hefesto (Medio Hermano Menor)
+- Artemis (Media Hermana Menor)
+- Apollo (Media Hermana Menor)
+- Hermes (Media Hermana Menor)
+- Dioniso (Media Hermana Menor)
+- Cronos (Abuelo Paterno)
+- Rea (Abuela Materna)
+- Zagreo (Primo Paterno)
+- Melinoë (Prima Paterna)
+
+### Afiliación
+
+Monte Olimpo
+
+### Doblaje
+
+Marin Miller
+
+### Afinidad
+
+Si le das Néctar, Atenea te dará el Colgante de Búho.
+
+La barra de afinidad de Atenea se maximiza a 7 corazones.
+
+#### Favor
+
+El favor de Atenea requiere ver las tres observaciones de Atenea después de completar una partida con éxito, reconociendo la fuerza de Zagreo.
+
+### Características y Personalidad
+
+Serena, grácil y refinada, Atenea es la primera deidad contactada por Nyx y ofrece su ayuda a Zagreo. Como diosa de la sabiduría y la estrategia militar, Atenea desea sinceramente que su primo escape de su injusto encarcelamiento con un plan elaborado.
+
+Atenea tiende a ser menos personal con Zagreo en comparación con los otros dioses y no comparte detalles de su vida personal o intereses, ya que siempre se enfoca en ayudar a Zagreo a escapar, siendo la única olímpica dispuesta a ayudar simplemente porque es lo correcto. Ella respeta genuinamente a su primo como miembro de su familia.
+
+Atenea puede considerarse claramente la hija favorita de su padre Zeus, quien constantemente presume de su astucia, aunque Atenea niega cualquier semejanza con él. Por otro lado, está igualmente dispuesta a castigar a Zagreo por aceptar la bendición de otro dios en lugar de la suya cuando tiene la opción. De hecho, detrás de su imagen de hija "perfecta" y obediente, tranquila y calculadora, Atenea puede perder la compostura al interactuar con otros dioses, como es el caso con Afrodita, con quien se lleva como agua y aceite.
+
+A pesar de sus buenas intenciones, los comentarios de los Olímpicos indican que Atenea es una especie de "sabelotodo", una "genio insoportable" que considera sus ideas superiores a las de los demás. Artemisa comenta que nunca sabe con certeza si Atenea está tratando de demostrar algo o de presumir. Otros dioses olímpicos indican que es algo aduladora y que su benevolencia es solo un acto.
+
+De hecho, bajo toda su aparente benevolencia, Atenea está lejos de ser tan sabia como se esperaría de una diosa de la sabiduría, teniendo sus propios secretos y posiblemente habiendo cometido errores graves en su pasado. Caos especula que la verdadera razón por la que Atenea carga con todo sobre sus hombros y está tan ansiosa por ayudar a Zagreo a escapar del inframundo es que lo ve como una forma de redención personal, considerándolo "una herramienta con la cual su familia rota aún puede ser reparada" y para corregir la ruptura entre los dioses olímpicos y ctónicos.
+
+### Descripción Fisica
+
+Atenea se presenta como una figura imponente de guerrera, alta y erguida, con un tono de piel gris oscuro, posando como una estatua, con el cabello trenzado de color lavanda y ojos a juego. Lleva una brillante armadura dorada con una Gorgona estampada en la cadera y túnicas ligeras, coronada con un casco azul con un penacho de crin de caballo. Sostiene un búho, su animal sagrado, en una mano y está armada con su característico escudo dorado, adornado con discos dorados en la frente, las orejas y el pecho.
+
+### Entrada del Códice
+
+… De los hechos que tengo pro ciertos, uno es este: que hubo muchos momentos, durante mi vida de mortal, en que mi lanza se mostraba certera gracias a Palas Atenea. Quiero pensar que esta diosa, que favorece a aquellos de temperamento similar al mío, se esfuerza por mantener a raya las ansias de violencia de su hermanastro Ares. Si alguien del Olimpo puede limar las Desavenencias entre mi señor Hades y las demás divinidades, ha de ser ella; aunque dudo que, ni siquiera en toda su sabiduría, sea capaz de atemperar el carácter tozudo de mi patrono.
+
+---
+
+### Afrodita
+
+Afrodita es la Diosa Olímpica del amor y la belleza. Ella ofrece bendiciones a Zagreo que infligen su Maldición de Estado característica, Debilidad, o que hacen a los enemigos más susceptibles al daño.
+
+Su Maldición de Estado característica es Debilidad, que reduce el daño de los enemigos afectados en un 30%. Afrodita también ofrece bendiciones que aumentan la efectividad de su Maldición de Estado, como Interior Vacío (que aumenta la duración del efecto).
+
+Afrodita es una de los cinco dioses olímpicos (los otros cuatro son Deméter, Poseidón, Hermes y Zeus) que no aparecerán en la primera partida de un guardado nuevo.
+
+Afrodita regresará en Hades II y ofrecerá sus bendiciones a Melinoë en su lucha contra Cronos. Su Maldición de Estado característica seguirá siendo Debilidad.
+
+### Título
+
+Diosa del Amor
+
+### Relaciones
+
+Uranus (Padre)
+Thalassa (Madre)
+The Titans (Parientes)
+Hephaestus (Esposo)
+Ares (Cuñado/Amante)
+
+### Afiliación
+
+Monte Olimpo
+
+### Doblaje
+
+Courtney Vineys
+
+### Afinidad
+
+Si le das Néctar, Afrodita te dará la Rosa Eterna.
+
+El medidor de afinidad de Afrodita se completa con 7 corazones, requiriendo regalarle 6 Néctares y 1 Ambrosía.
+
+Si se completa la afinidad con Afrodita, habrá un texto único sobre su recuerdo. Este texto dice: "De Afrodita; compartes un vínculo hermoso" y también "Su verdadero afecto está reservado para aquellos que encuentran el amor y la belleza por sí mismos."
+
+#### Favor
+
+El favor de Afrodita requiere que Zagreo demuestre su capacidad para amar, tanto platónicamente como apasionadamente, formando vínculos con Dusa, Thanatos y Megaera (se activará 1 diálogo con la diosa por cada vínculo que formes con ellos y un cuarto diálogo para obtener realmente el favor).
+
+### Características y Personalidad
+
+Afrodita es juguetona, seductora y optimista. Como Diosa del Amor, puede ser muy dulce y accesible con Zagreo y sus admiradores, y coquetea abiertamente con ellos. Sin embargo, no es recomendable irritarla insinuando segundas intenciones. Ella mostrará su enojo contra cualquiera que amenace a aquellos que considera importantes o a "su pequeño dios".
+
+A pesar de ser la diosa del amor, puede ser bastante venenosa, traviesa y propensa a hacer comentarios letales. Los comentarios de otros dioses olímpicos indican que Afrodita tiene intereses superficiales. Puede ser bastante hipócrita y frecuentemente entra en conflicto con otros olímpicos, especialmente Atenea, con quien se lleva como el agua y el vino. Sin embargo, cree firmemente en el poder del amor y hará todo lo posible para asegurarse de que se dé y se reciba en su forma más pura.
+
+Incluso la experta en amor puede cometer errores, y su rapidez para percibir pasiones no siempre es precisa. Por ejemplo, deduce incorrectamente que la tímida Artemisa estaba interesada en Zagreo, lo que causa un malentendido. Afrodita es una confidente del amor y puede ser bien intencionada a veces, actuando como consejera para corazones rotos y asistiendo pasiones pendientes.
+
+Afrodita utiliza su estatus como diosa del amor a su favor, con su encanto y carisma, aprovechando los beneficios que esto proporciona, usando las pasiones y deseos de las personas a su antojo, lo que la convierte en una estratega hábil tanto en el amor como en la batalla. Aquiles comenta que, entre los olímpicos, Afrodita es la que más le aterroriza. Su dominio puede causar grandes turbulencias con consecuencias más devastadoras que un rayo, literalmente destruyendo los corazones de sus adversarios.
+
+### Descripción Fisica
+
+La diosa más femenina del Olimpo, Afrodita, irradia una aura confiada y seductora, y se la representa con pequeños vegetales adornando su cabeza. Se muestra sin inhibiciones, como una diosa voluptuosa y desnuda, con ojos color durazno y una mandíbula definida. Lleva broches decorativos de vegetación a los lados de la cabeza y joyas entrelazadas en sus muñecas y antebrazos. Su increíblemente largo y sedoso cabello de color durazno cubre sus pechos y área púbica, con los extremos del cabello formando un corazón.
+
+### Historia
+
+Aphrodite no se mostrará de inmediato a Zagreus, pero eventualmente se acercará. Decide que él es digno de recibir sus bendiciones y por lo tanto le presta sus poderes. Sus conversaciones se centran principalmente en ella y en lo adorada que es por otros, o en los conceptos del amor. Puede comentar sobre su esposo y hablar libremente su opinión sobre los demás, sin remordimientos ni miedos. También estará al tanto de los caminos románticos de Zagreus y lo animará a perseguirlos.
+
+### Entrada del Códice
+
+«… Afrodita derrocha belleza y encanto con la misma letalidad que yo empuñaba la lanza. He visto su obra de primera mano y, a menudo, no resulta tan hermosa como ella. Con frecuencia pienso que, de entre todas las deidades del Olimpo, ella es la más mortífera. Nada son un devastador maremoto o una tempestad incontenible en comparación con un corazón roto. Aunque el amor es la fuerza que nos humilló en vida, a mí y a tantos otros, también nos liberó, a mí y a tantos otros, de las ataduras de una existencia banal. Aun así, me temo que Afrodita sustenta el poder más terrible del mundo.»
+
+---
+
+## Artemisa
+
+Artemis, la Diosa Olímpica de la caza y la hermana gemela mayor de Apolo, otorga bendiciones a Zagreus que le dan la oportunidad de infligir daño crítico con sus habilidades. Además, también ofrece bendiciones que mejoran las habilidades de lanzamiento.
+
+Aunque el bono de daño ofrecido en sus bendiciones es menor en comparación con otros dioses, los golpes críticos que ofrecen infligen tres veces el daño de una habilidad normal, proporcionando uno de los mejores aumentos de DPS en general ofrecidos por cualquier dios o diosa individual. Las bendiciones de Artemis, cuando se combinan correctamente con otras bendiciones, tienen el potencial de infligir un daño tremendo. Además, sus bendiciones relacionadas con el lanzamiento aumentan tu munición total o añaden un proyectil, lo que permite una herramienta de largo alcance poderosa.
+
+Su maldición de estado distintiva es Marcada, que aumenta la probabilidad de infligir un golpe crítico al enemigo afectado, consumiendo la maldición y volviéndola a aplicar a un objetivo cercano. Esto básicamente te permite acumular golpes críticos en una multitud. Este aumento de probabilidad se acumulará con sus bendiciones que ofrecen probabilidad de golpe crítico.
+
+### Título
+
+Diosa de la Caza
+
+### Relaciones
+
+- Zeus (Padre)
+- Leto (Madre)
+- Hades (Tío Paterno)
+- Poseidón (Tío Paterno)
+- Hestia (Tía Adoptiva)
+- Deméter (Tía Adoptiva)
+- Hera (Madrastra)
+- Atenea (Media Hermana Mayor)
+- Ares (Medio Hermano Mayor)
+- Hefesto (Medio Hermano Menor)
+- Apolo (Hermano Hemelo Menor)
+- Hermes (Medio Hermano Menor)
+- Dioniso (Medio Hermano Menor)
+- Cronos (Abuelo Paterno)
+- Rea (Abuela Paterna)
+- Hécate (Prima Materna)
+- Zagreus (Primo Paterno)
+- Melinoë (Prima Paterna)
+
+### Afiliación
+
+Monte Olimpo
+
+### Doblaje
+
+Jamie Landrum
+
+### Afinidad
+
+Si le das Néctar, Artemisa te dará la Puntas de Flecha de Adamantina.
+
+La barra de afinidad de Artemisa alcanza un máximo de 7 corazones, lo que requiere regalar 6 Néctar y 1 Ambrosía.
+
+#### Favor
+
+El favor de Artemisa requiere ver múltiples líneas de diálogo en las que ella hable sobre su pareja, Calisto. La barra se desbloquea cuando Artemisa dice que siente que puede ser ella misma con Zagreo.
+
+### Características y Personalidad
+
+Artemis es reservada, poco sociable e indiferente hacia su familia olímpica. Como diosa ligada a la caza y experta arquera, prefiere retirarse al bosque y estar sola o con sus ninfas, dedicándose a la caza u otras actividades que no impliquen interacción social o pasar mucho tiempo con su ruidosa y complicada familia.
+
+Como una deidad estoica, prefiere conectar con la naturaleza a través de la caza y mantenerse apartada en su propio mundo privado. Se la ve como "una loba solitaria". Según otros dioses, es socialmente torpe, quizás debido a su identificación con la naturaleza salvaje o a su falta de interacción social debido a sus frecuentes salidas nocturnas.
+
+La Diosa de la Caza suele ser franca y práctica, cuestionando a Zagreo sobre su elección del Riel de Adamantina, considerándolo demasiado ruidoso y poco efectivo como arma de caza. Prefiere el tradicional arco y flecha.
+
+A pesar de no ser la "perfecta Atenea", intenta actuar como una hija obediente, aunque solo recibe críticas de su padre. Artemis puede ser bastante sarcástica y no tolera que los dioses se entrometan donde no son bienvenidos o cuestionen por qué sigue soltera. Es una diosa vengativa y se rebela rápidamente, sin temor a herir susceptibilidades de otros dioses si es necesario.
+
+Distante, reservada, experta en esquivar a los demás, Artemis no es franca sobre sus sentimientos y es la única que no utiliza términos afectivos para referirse a Zagreo, llamándolo únicamente por su nombre. Él puede considerarla como un modelo a seguir distante, aunque en realidad ella se siente bastante nerviosa e insegura de cómo comportarse en su presencia. Con el tiempo, puede admitir de manera algo despectiva que lo considera uno de sus mejores amigos. También trata a las ninfas como iguales, a pesar de ser deidades menores, lo cual es bastante revelador para una diosa de su estatus.
+
+### Descripción Fisica
+
+Artemisa se presenta como una ágil doncella joven con cabello y piel verdes, adornada con una variedad de ajustadas pieles de animales junto con una capa de caza verde y un gran carcaj. Su cabello está peinado en una sola trenza grande y coronado con un par de cuernos de animal, específicamente los de un ciervo, uno de sus animales sagrados. Su ojo derecho está pintado de verde con un patrón de estrella, resaltando su mirada oscura (en Hades II sus ojos son más visibles y tienen forma de almendra como los de su hermano gemelo Apolo, pero en un tono más oscuro que el suyo). Su asociación con la luna se puede ver en los símbolos de creciente que lleva en su cabello y en su cuerpo. Se la ve armada con un gran arco de madera con un trío de codornices posadas en un extremo.
+
+### Historia
+
+Artemis es uno de los dioses olímpicos que ofrece su ayuda a Zagreo. Sus conversaciones a menudo incluyen charlas sobre caza y palabras de ánimo para Zagreo. También expresa libremente su opinión sobre los demás, y a menudo menciona su incomodidad porque siempre están encima de ella o malinterpretan sus intenciones y dominio.
+
+### Entrada del Códice
+
+«… Siempre he admirado sobremanera a la diosa de la caza. A diferencia de tantos otros hermanos y hermanas del Olimpo, se muestra indiferente ante las alabanzas de los mortales y, en cambio, cumple con su deber como señora del mundo natural. Hasta el señor Hades le profesa cierto respeto, creo. Si bien es cierto que trae una cantidad nada desdeñable de sombras a sus dominios. Imagino que mi patrono y la señora Artemisa comparten ciertos rasgos, como la soledad y el compromiso con el trabajo. Ojalá mi señor Hades comprendiera que puede abrirle el corazón a alguien como Artemisa, en lugar de guardarle el mismo rencor que a las demás divinidades del Olimpo.»
+
+---
+
+## Ares
