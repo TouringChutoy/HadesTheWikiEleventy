@@ -659,3 +659,233 @@ Después de recoger la recompensa, la puerta en el lado opuesto de la cámara se
 ---
 
 ## Aquiles
+
+Aquiles es un héroe semidiós famoso por su papel en la Guerra de Troya, tanto como un guerrero sin igual como líder de su tribu, los Mirmidones. Cuando era niño, su madre lo sumergió en el Estigia para otorgarle la inmortalidad, pero quedó vulnerable en el talón que Thetis sostenía.
+
+Después de ser mortalmente herido cuando Paris le disparó con una flecha en el talón, descendió al Inframundo como una Sombra, donde eventualmente fue contratado por Hades para entrenar a un joven Zagreo en batalla y disciplina militar a cambio de permitir que su amante Patroclo ingresara a Elíseo. Desde que fue contratado, Aquiles ha hecho un esfuerzo por ser una fuente de apoyo y estímulo para Zagreo frente al a menudo duro trato de Hades.
+
+Aquiles es responsable de redactar todas las entradas del Códice, que le entrega a Zagreo para proporcionar información y orientación sobre el Inframundo y los Dioses Olímpicos.
+
+### Título
+
+Heroe Olvidado
+
+### Relaciones
+
+- Thetis (Madre)
+- Peleus (Padre)
+- Patroclo (Amante)
+- Chiron (Ex-Mentor)
+- Atena (Ex-Jefa)
+- ZagreO (Pupilo)
+- Hades (jefe)
+- Megera (Compañera)
+- Dusa (Compañera)
+- Hypnos (Compañero)
+- Artemisa (Fan)
+
+### Afiliación
+
+Morada de Hades
+
+### Doblaje
+
+Logan Cunnigham
+
+### Afinidad
+
+Después de tu tercer intento de escape, puedes hablar con él para obtener el Códice.
+
+Si le das Néctar, Aquiles te dará el Brazalete de los Mirmidones. Después de darle 6 Néctares, no podrás darle más regalos hasta que completes un favor para él. Hacerlo te permitirá darle Ambrosía, y él te dará el Acompañante Antos a cambio de la primera botella.
+
+El medidor de afinidad de Aquiles alcanza su máximo en 9 corazones, lo que requiere el regalo de 6 Néctares y 3 Ambrosías.
+
+Si la afinidad está al máximo con Aquiles, habrá un texto único sobre su reliquia. Este texto dice: "de Aquiles, compartes un vínculo inquebrantable" así como "Destinado a la gloria, siempre será recordado, y te recordará a ti".
+
+#### Favor
+
+Como parte de la Lista de Profecías Menores del Destino, el favor de Aquiles implica encontrar una forma de reunirlo con su compañero de toda la vida, Patroclo. A medida que Zagreo se acerca más a ambos y conoce su relación, Patroclo le pedirá que transmita un mensaje a Aquiles, que "lo arriesgue todo". Al escuchar esto, Aquiles rememorará la última vez que escuchó la frase. Progresar en este favor requiere que completes los favores tanto de Sísifo como de Orfeo y Eurídice.
+
+Más tarde, después de haberlo hecho, Aquiles le pedirá a Zagreo que modifique su pacto con Hades para permitirle entrar en Elíseo y ver a Patroclo. Después de que Zagreo localice el pacto con la ayuda de Nyx, costará 5 Diamantes conceder el deseo de Aquiles en el Contratista de la Casa. Luego partirá hacia Elíseo, y Zagreo podrá encontrarlo junto a Patroclo en su cámara residencial.
+
+Al regresar a la Casa de Hades, su medidor de afinidad se desbloqueará y podrá recibir Ambrosía como regalo. También puede volver a visitar a Patroclo en carreras posteriores.
+
+### Características y Personalidad
+
+Conocido como un formidable semidiós por su papel en la Guerra de Troya, Aquiles sirve como una fuente de apoyo y estímulo para Zagreo.
+
+A pesar de ser un héroe griego de renombre, Aquiles es muy humilde y autodepreciativo. No ve motivo para regocijarse con historias de su pasado. A diferencia, por ejemplo, de Teseo, él no se jacta de las hazañas que le valieron fama. Parece contento de cuidar el ala oeste de la Casa de Hades y de enseñar a Zagreo.
+
+Dado que Hades está tan distante, Aquiles actúa como apoyo emocional para Zagreo y se convierte en el "modelo masculino mayor" para él. Aquiles es sereno, afectuoso, un mentor sabio y noble, y uno de los pocos héroes genuinamente heroicos. Aquiles está a cargo y proporciona información y orientación sobre el Inframundo y los dioses del Olimpo. Se da a entender que en el pasado, Aquiles era alguien muy diferente de quien conocemos ahora, y se avergüenza de quien solía ser, no interesado en revivir el pasado. Mucho más tranquilo en su vida después de la muerte, era famoso por su Ira Implacable y podría haber sido un guerrero orgulloso y arrogante, como Teseo, pero creció como persona gracias a su tiempo de reflexión en el Inframundo.
+
+Aunque no es evidente de inmediato, eventualmente queda claro que Aquiles está secretamente atormentado por la culpa y el auto-odio por las numerosas atrocidades que presenció y cometió mientras estaba vivo, especialmente cuando se trataba de la guerra con los troyanos, que también condujo a su muerte. Debido a esto, cuando se le cuestiona sobre las muchas batallas en las que participó, Aquiles siempre se niega a entrar en detalles reales. Después de aceptar a Zagreo como su alumno, se compromete a hacer todo lo posible para asegurar que Zagreo se convierta en un hombre mejor de lo que él fue en vida.
+
+Aquiles puede volverse cómicamente serio. Odia las cebollas, y lo gracioso es que habla muy en serio al respecto. Incluso dice que preferiría desaparecer en la nada antes que ser obligado a comer una cebolla de nuevo.
+
+Como un sacrificio honorable por el verdadero amor, después de su muerte, Hades se acercó a Aquiles con la oferta de entrenar a un joven, Aquiles aceptó convertirse en mentor de Zagreo, sacrificando su lugar en Elíseo por Patroclo a cambio.
+
+### Entrada del Códice
+
+…No veo motivo para entretenerte con historias de mi pasado. Bate con decir que he combatido, armado de valor, hombro con hombro, con los soldados más aguerridos que el mundo haya conocido. He enterrado a demasiados de esos hombres y he enviado a muchos más a este lugar, donde por fin somos todos compañeros. Por suerte, el patrono de esta morada se apiadó de mí y me libró de la tediosa eternidad del Elíseo, a cambio de una existencia más próxima a los tiempos en que vivía y tenía mis propios quehaceres. Aún así, me siento incompleto y sólo en este lugar, sin la compañía del hombre con quien compartía la vida cuando era carne y hueso. Aunque se encuentra en algún rincón de este reino, nuestro momento hace mucho que pasó. Sin embargo, ya me he equivocado otras veces… ¡tantas! Al creer esto, ¿me estaré equivocando de nuevo? El infinito espera. Con tiempo ilimitado, ¿acaso queda algo que sea imposible de verdad? Y, sin embargo, nuestro tiempo mortal, finito como es, limita y motiva nuestros actos al mismo tiempo. Es por eso que en mí habitan dos personalidades.
+
+---
+
+### Zeus
+
+Zeus es el dios olímpico del cielo y el trueno, y el gobernante de los dioses olímpicos. Es el hermano menor de Hades y el tío de Zagreo. Ofrece bendiciones a su sobrino que le otorgan habilidades de rayos o ataques de relámpagos.
+
+Las bendiciones de Zeus destacan en infligir daño a grupos de enemigos, ya que los efectos de los rayos encadenados saltan entre enemigos, y los ataques de relámpagos pueden golpear a varios enemigos.
+
+Su Maldición de Estado característica es Sacudida, que hace que los enemigos infligan daño a sí mismos cuando atacan, consumiendo la Maldición.
+
+Zeus es uno de los cinco dioses olímpicos (los otros cuatro son Deméter, Poseidón, Hermes y Afrodita).
+
+Zeus regresa en Hades II y ofrece sus bendiciones a Melinoë en su lucha contra Cronos. Su nueva Maldición de Estado característica es Embestida, que hace que los enemigos sean golpeados por un rayo después de recibir cierta cantidad de daño.
+
+### Título
+
+Rey de los olimpicos
+
+### Relaciones
+
+- Cronos (Padre)
+- Rea (Madre)
+- Hera (Esposa)
+- Hades (Hermano Mayor)
+- Poseidon (Hermano Mayor)
+- Hestia (Cuñada)
+- Demeter (Cuñada)
+- Atena (Hija)
+- Ares (Hijo)
+- Artemisa (Hija)
+- Apollo (Hijo)
+- Hefesto (Hijo)
+- Hermes (Hijo)
+- Dioniso (Hijo)
+- Hercules (Hijo)
+- Zagreo (Sobrino)
+- Melinoë (Sobrina)
+
+### Afiliación
+
+Monte Olimpo
+
+### Doblaje
+
+Peter Canavese
+
+### Afinidad
+
+Si le das Néctar, Zeus te dará el Sello del Trueno.
+
+El medidor de afinidad de Zeus alcanza su máximo en 7 corazones.
+
+#### Favor
+
+El favor de Zeus implica escuchar las opiniones de los otros dioses sobre él, así como ver a Zeus expresar el deseo de volver a conectar con Hades, junto con la respuesta de Hades.
+
+### Características y Personalidad
+
+El Rey de los Olímpicos, Zeus se muestra sociable, afable y especialmente paternal, en contraste con su hermano brusco. Sin embargo, esto es solo superficialmente. Mientras que su hermano Hades tiene buenas intenciones y es justo bajo su apariencia exterior, Zeus es lo opuesto. En su esencia, Zeus puede ser bastante astuto, soberbio, muestra un complejo de superioridad y posiblemente tiene el ego más inflado de los dioses olímpicos.
+
+Zeus intenta actuar como un dios benevolente, pero incluso sus actos de "bondad" están enraizados en lo que le complace. No teme a las consecuencias de sus acciones y nunca asume responsabilidad. Parece incapaz de reconocer que participó, no escucha a los demás y siempre bromea sobre asuntos serios.
+
+Zeus tiende a actuar con compasión hacia Zagreo, ofreciendo aliento, pero también es algo egocéntrico. Obliga a todos a decir algo bueno sobre él, sobre cómo es "el más elegante, poderoso y divino de los dioses", y puede bromear sobre su sobrino teniendo una "Venganza Celestial" si acepta otro beneficio.
+
+Zeus puede ser bastante cínico, como cuando le gusta mencionar a la hija desaparecida de Deméter en sus conversaciones familiares y comentar descaradamente sobre lo lamentable que es todo el caso, mientras actúa como si estuviera igual de perplejo que los demás. Sin embargo, está absolutamente consciente de que él es completamente responsable del secuestro de Perséfone. Su audacia también lo lleva a enviar a su sobrino para enviar un mensaje a su padre en su nombre, diciendo que "Zeus lo perdona", enfureciendo a Hades con furia con su insolencia contradictoria, a pesar de haber causado todo el problema en cuestión.
+
+Zeus en todo su esplendor no es puramente egoísta, como lo fue cuando salvó el cosmos al luchar contra los Titanes y dividir el mundo casi justamente con sus hermanos. Él realmente quería volver a conectar con Hades y le agradaba Zagreo, deseándolo como un hijo. Aunque de la manera más equivocada posible, ciertamente veía a Perséfone como un "regalo". Zeus se dio cuenta de que su hermano mayor estaba solo en el inframundo, le gustaba Perséfone, y que ella correspondía y quería dejar el Olimpo. Entonces escenificó el secuestro con ella y la llevó a Hades, en parte para arreglar las cosas con él y reconciliarse, por más radical que fuera el enfoque.
+
+### Descripción Fisica
+
+Zeus se presenta como un hombre imponente y anciano, con un tono de piel bronceado y una túnica suelta que revela su pecho musculoso. Su cabello y barba son de un blanco puro y emulan las nubes de su dominio celestial. Está armado con su característico rayo, junto con otros dos rayos que lleva en el cabello a modo de corona de laurel. También lleva brazaletes y anillos dorados.
+
+### Entrada del Códice
+
+«… Señor de los cielos, dios entre los dioses; tuvo una gran repercusión en mi vida como mortal. Y ahora, después de la muerte, sirvo a su hermano. No creo que pueda añadir mucho más acerca de Zeus que no sea de dominio público. Derrotó a los titanes, sangre de su sangre, para arrebatarles el control de los cielos y la Nivelra. Desde entonces, lo gobierna todo. Mi señor Hades no le profesa afecto alguno, por motivos que escapan a mi entendimiento. Más parece que hubiera decidido darles la espalda a los dioses del Olimpo por voluntad propia.»
+
+---
+
+### Poseidon
+
+Poseidón es el dios olímpico del mar y de los caballos, y a veces es referido con el epíteto de "Sacudidor de la Tierra". Él, al igual que muchos de sus compañeros olímpicos, ofrece bendiciones a Zagreo que aumentan significativamente el daño de sus habilidades, así como causan que sus habilidades infligan Retroceso.
+
+Las bendiciones de Poseidón ofrecen el tercer aumento de porcentaje de daño crudo más alto en Hades, así como la capacidad de empujar a los enemigos, causando daño adicional al chocar contra las paredes o trampas.
+
+Las bendiciones de Poseidón son algunas de las pocas que ofrecen monedas de Artefacto y aumentan su tasa de adquisición. Solo Dionisio comparte esta característica.
+
+La bendición de Poseidón para el Lanzamiento, Disparo Inundador, es un prerrequisito frecuente para las Bendiciones Duales, lo que la convierte en una opción notable para aquellos que priorizan su Lanzamiento.
+
+Su Maldición de Estado característica es Roto, que inflige rápidamente daño a los enemigos mientras se mueven. Roto no solo afecta el movimiento de un enemigo, sino que también afecta el movimiento de varios otros efectos de Retroceso.
+
+Poseidón es uno de los cinco dioses olímpicos (los otros cuatro son Deméter, Zeus, Hermes y Afrodita) que nunca aparecerán en la primera carrera de un archivo guardado.
+
+Poseidón regresa en Hades II y ofrece sus bendiciones a Melinoë en su lucha contra Cronos. Su nueva Maldición de Estado es Resbalón, que hace que los enemigos reciban más daño y sean empujados más lejos.
+
+### Título
+
+Dios de los Mares
+
+### Relaciones
+
+- Cronos (Padre)
+- Rea (Madre)
+- Polifemo (Hijo)
+- Caribdis (Hija)
+- Hades (Hermano Mayor)
+- Zeus (Hermano Menor)
+- Hestia (Cuñada)
+- Demeter (Cuñada)
+- Hera (Cuñada)
+- Atena (Sobrina)
+- Ares (Sobrino)
+- Hefesto (Sobrino)
+- Artemisa (Sobrina)
+- Apollo (Sobrino)
+- Hermes (Sobrino)
+- Dioniso (Sobrino)
+- Zagreo (Sobrino)
+- Melinoë (Sobrina)
+
+### Afiliación
+
+Monte Olimpo
+
+### Doblaje
+
+Logan Cunnigham
+
+### Afinidad
+
+Si le das Néctar, Poseidón te dará la Caracola.
+
+El medidor de afinidad de Poseidón alcanza su máximo en 7 corazones.
+
+#### Favor
+
+El favor de Poseidón requiere el uso de la Caña de Pescar y pescar con éxito un mínimo de 18 peces únicos, y tener al menos 1 pez contigo. Puedes atrapar este pez en una carrera anterior si no se lo das al chef.
+
+### Características y Personalidad
+
+El Dios del Mar, Poseidón, encarna una personalidad salvaje, relajada y razonable, ocasionalmente refiriéndose a sí mismo con el apodo de "Sacudidor de la Tierra". Él asume el papel de un tío tranquilo para Zagreo y fue uno de los primeros en ofrecer apoyo al enterarse de su existencia.
+
+A pesar de su naturaleza acogedora y relajada, Poseidón tiene el poder de desatar tsunamis. Su aura receptiva y rústica a veces lleva a Zagreo a desear que su padre fuera tan tranquilo como su amado tío. Sin embargo, cuando las cosas se ponen tormentosas, Poseidón puede exhibir los peores rasgos tanto de Zeus como de Hades.
+
+Careciendo de tacto al interactuar con los demás, pero aún considerándose a sí mismo un "Caballero del Mar", Poseidón carece de sutileza y tiende a irrumpir ruidosamente. Por ejemplo, al ver a Afrodita y Zagreo solos, casualmente comenta que no vio nada, dejándolos "a sus propios dispositivos", insinuando que la diosa tiene motivos ocultos. Esto, a su vez, enfurece a Afrodita con sus interpretaciones groseras. Poseidón también posee un cierto nivel de ironía, afirmando encontrar a Teseo molesto, lo cual puede ser bastante humorístico, ya que todos lo ven bajo la misma luz.
+
+Los comentarios de otros dioses olímpicos indican que Poseidón es una especie de "amigo que nadie quiere". La mayoría de las conversaciones sobre Poseidón implican que no es tomado en serio, con personas burlándose de su disposición "hippie" y hablando mal de él a sus espaldas. Siempre es evidente, Poseidón siempre deja una huella, y otros reconocerán su naturaleza salvaje cuando vean que Zagreo ya ha recibido un favor de él.
+
+Tan profundo como el océano, a pesar de su positividad y actitud despreocupada, parece resentir siempre estar en segundo lugar en el podio, sugiriendo que está eclipsado por su hermano menor, Zeus. Sin embargo, a pesar de su ocasional molestia, posee cualidades encomiables, intenta (exageradamente) conectar con sus sobrinos y sobrinas, incluso Artemisa, como sus esfuerzos por ser abierto y acogedor con Zagreo. Sus palabras son menos arrogantes y más directas entre los olímpicos. Atenea comenta cómo Poseidón fue el primero en lanzarse y ofrecer su poder sobre el mar. Sin duda tiene un punto débil por Zagreo y no estará contento si alguien se atreve a dañar a su sobrino favorito.
+
+### Descripción Fisica
+
+Poseidón es un hombre mayor, pero aún robusto. Como el dios de los océanos, Poseidón tiene una expresión relajada, piel bronceada, una larga barba puntiaguda y cabello verde azulado que evoca olas y burbujas. Lleva consigo su tridente verde, que sostiene una perla morada. Algunos vellos corporales son visibles. Usa una larga bufanda, y su atuendo consta de un turbante adornado con imágenes marinas envuelto alrededor de su cintura, con una pierna prominentemente expuesta. Lleva pulseras en sus brazos y muñecas. Poseidón lleva una tiara diseñada adornada con caballitos de mar, sus criaturas simbólicas.
+
+### Entrada del Códice
+
+… Señor de los mares, provocador de temblores de tierra, hermano de los dioses Hades y Zeus… el dios Poseidón. Le estoy eternamente agradecido porque se mostró clemente conmigo en vida. Aquí, no obstante, confieso que rara vez percibo su influencia. Ahora… todos estamos por debajo de él. ¿A cuántos hermanos míos ahogó en mis días como mortal? Aunque puede parecer afable a primera vista, sigo sin perdonárselo. Mi señor Hades, que lo equipara con Zeus, tampoco siente mucho afecto por él. Rehúye a ambos por igual. A mi juicio, es preferible evitar ese peliagudo asunto.
+
+---
+
+## Atena
+
