@@ -83,7 +83,6 @@ Darren Korb
 
 ### Características y Personalidad
 
-
 Zagreo es hijo de Hades y Perséfone, aunque desconoce la verdadera identidad de su madre. Para él, Nicte, quien lo ha criado en el Inframundo, es su madre. Es un personaje persistente, de buen humor y con un corazón generoso. Ha vivido gran parte de su vida inmortal soportando la frustración y la ira reprimidas de su padre, Hades. Esto lo ha llevado a sentirse distante y fuera de lugar entre los otros habitantes del inframundo. No logró cumplir con las grandes expectativas de su padre y aparentemente no contribuye al funcionamiento del Inframundo.
 
 Después de descubrir la verdad sobre su origen, decide huir del reino de los muertos en busca de su madre, desaparecida hace mucho tiempo. A pesar de enfrentarse a numerosas pruebas y muertes, nunca titubea en su objetivo. No muestra signos de duda en sus esfuerzos, incluso cuando su padre se enfurece o cuando su madre, en un momento dado, le pide que no la busque más.
@@ -93,6 +92,26 @@ Zagreo suele exhibir humildad, buen humor y un toque de sarcasmo y autocrítica.
 Zagreo muestra un feroz instinto protector hacia sus amigos y seres queridos, dispuesto a defenderlos sin importar el estatus social o las expectativas. Utiliza su influencia para mejorar la vida de los demás.
 
 Debido a su crianza protegida, a menudo Zagreo muestra una falta de conocimiento sobre el mundo exterior al Inframundo, confiando en que otros le proporcionen información sobre este.
+
+### Descripción Fisica
+
+**General**
+
+Debido a su herencia mortal, Zagreo es algo pequeño para ser un dios, considerablemente más bajo que Hades y aproximadamente una cabeza más bajo que Perséfone. Presumiblemente, tiene una altura promedio para un mortal, ya que le dice al Minotauro que tiene la misma altura que Teseo. Tiene heterocromía, con un ojo siendo rojo como el de su padre y el otro verde como el de su madre. Su cabello negro es similar al de su padre, pero con la textura espinosa de su madre. Su piel es bastante pálida (bronceada según los estándares del inframundo), y es físicamente fuerte y musculoso. Sus pies están perpetuamente en llamas. Zagreo está bien esculpido, tanto que incluso Afrodita lo nota. Aunque es considerado delgado para ser un dios y ha sido llamado flaco, sería considerado por encima del promedio en tamaño según los estándares mortales. Parece que extrañamente sangra rojo.
+
+**Descripción de la Ropa**
+
+Zagreo lleva una toga roja y negra, colgando sobre su hombro izquierdo con su pecho derecho expuesto. También lleva un cinturón blanco, visualmente similar a un hueso, con calaveras talladas en él. En su hombro izquierdo hay una placa de hombro metálica que se asemeja a las tres cabezas de Cerbero mordiendo su hombro. Tiene cintas rojas envueltas en un patrón de equis en su brazo derecho y dos pulseras de cuero delgadas en su antebrazo izquierdo, una cerca de su muñeca y la otra cerca de su codo. También lleva pantalones rojo sangre. En la coronilla de su cabeza hay una pequeña corona de laurel, comenzando como rojo en la base de su cabeza y convirtiéndose en amarillo dorado cerca de la frente. Las hojas amarillas delanteras de su corona de laurel a menudo se representan flotando alrededor de su cabeza.
+
+### Historia
+
+El Príncipe Zagreo ahora busca más respuestas que preguntas. Ahora ha encontrado su propósito: encontrar a su verdadera madre y escapar del lugar donde fue criado, en las profundidades del infierno mismo.
+
+Mientras se prepara para partir, Zagreo le dice a todos que va a buscar a su madre biológica, Perséfone, y con la esperanza de hacerlo, traerla de vuelta a la Casa de Hades. El príncipe eventualmente le dice a su padre que seguirá decidido a hacer lo que sea necesario para echar un vistazo al Olimpo y a la exuberante y hermosa superficie. Incluso desobedecer las órdenes de su padre no lo detendrá en su camino.
+
+Después de fallar numerosas veces, no se rendiría, pero aún así tendría charlas con otras sombras y personas. Primero acude a Nix en busca de consejo y orientación, con su confianza sobre el viaje lamentado de Zag, incluso hasta el punto en que inevitablemente se vuelve contra Hades, con quien trabajó una vez mientras vigilaba la Casa. Básicamente, le dice a Zagreo que "le dé lo que se merece" y "lo destruya".
+
+Después de la décima visita a su madre, finalmente logra convencerla de regresar y así son llevados por Caronte a la Casa.
 
 ### Entrada del Códice
 
@@ -143,6 +162,36 @@ La afinidad de Hades alcanza su máximo con 5 corazones, los cuales requieren 5 
 #### Favor
 
 Para obtener la aprobación de Hades, debes lograr el regreso de Perséfone a la morada de Hades. La barra de afinidad se activará cuando él te manifieste su gratitud por haber logrado traerla de vuelta a su dominio.
+
+### Características y Personalidad
+
+El Maestro Hades es el dios responsable de gobernar el inframundo, un lugar terrible y hogar de las almas de los afligidos. Se encarga de comandarlo y mantener el orden en él, determinando los destinos y castigos de los muertos. Escucha peticiones de las sombras que se le presentan. Bloqueará cualquier oportunidad impertinente de escape de su hijo Zagreo y se asegurará de que varias entidades del inframundo estén tras él para evitar que escape.
+
+Hades parece disciplinado, dominante y rígido con su trabajo, aplicando las muchas reglas de su dominio con un severo rigor burocrático. Zagreo siempre ha visto a su padre como un "villano" en su vida y lo ha considerado siempre un hombre distante, impaciente y trabajador con poco tiempo para su hijo, menospreciándolo y actuando duramente hacia él, constantemente reprendiéndolo y reprimiéndolo, y siempre deseando más atención de su padre, pero sin éxito.
+
+A pesar de mantener la compostura, se puede observar en Hades una mecha extremadamente corta, especialmente con su hermano, Zeus. Al escuchar de su hijo que "Zeus lo perdona", en un tono de sarcasmo y contradicción, Hades enloquece de furia ante la insolencia.
+
+Hades es una figura enigmática, incluso para los habitantes de su propio reino, e incluso para su propio hijo. Es difícil leerlo y decir si hace algo por el bien de alguien o por razones inscrutables. A pesar de su dura apariencia, a diferencia de su hermano menor Zeus, que parece sociable y benevolente, solo por fuera, debajo de toda su apariencia dura, Hades tiene buenas intenciones, es justo, se toma su papel en serio y fue gracias a estas cualidades que Perséfone vio en él que llevaron a su matrimonio y eventualmente a tener "hijos" juntos.
+
+Hades parece increíblemente serio y práctico. Sin embargo, se puede observar una actitud saludable; cada vez que Hades ve algo que le resulta gracioso, no puede contenerse y comienza a reírse momentáneamente. A pesar de ser inflexible, parece temer a su esposa Perséfone, quien parece conocer todas sus debilidades y cumple con cualquier solicitud que ella le haga.
+
+A pesar de ser el principal antagonista de Hades, al final, elige no revelarle a Zagreo sobre Perséfone, para proteger a Zagreo de su propia verdad y en gran parte para evitar una guerra civil por parte de Deméter y liberar a Perséfone de todas las circunstancias que la atan a su hijo. Hades se disculpa con su hijo y admite que fue un mal padre. Ahora, con Perséfone, ella es capaz de sacar el lado más dulce y gentil de Hades, llevándolo a ser más paternal y abierto sobre su afecto por él. Aun así, no es particularmente cálido con él después. Sin embargo, su relación mejora considerablemente ya que está más dispuesto a reconocer los rasgos positivos de Zagreo y no menospreciarlo constantemente como antes, sonando más como un padre y un hijo.
+
+Puede resultar difícil de creer, pero Hades está abierto a la crítica y a las opiniones y juicios de los demás, como lo demuestra cuando Perséfone lo ayuda con la documentación y el hecho de que permite que Hermes influya ligeramente en las reglas del Pacto del Castigo.
+
+### Descripción fisica
+
+Hades es una figura masiva y corpulenta, considerablemente más grande que cualquier humano. Tiene piel gris, ojos rojos con esclerótica negra y cabello negro largo y ondulado. Destacadamente, también posee un bigote hasta la cintura cuyas dos mitades se cruzan entre sí en su pecho superior, formando la forma de su símbolo, Gigaros. Luce túnicas rojas decadentes adornadas con numerosas piezas de joyería dorada incrustada con gemas y motivos de calaveras. Sobre su cabeza lleva una corona de laurel de color llameante. Al igual que Zagreo, los pies descalzos de Hades emiten un resplandor ardiente y chamuscan el suelo al caminar.
+
+Antes de luchar contra Zagreo, también lleva una larga capa roja que descarta al comenzar la pelea. En combate, se pone el Yelmo de la Oscuridad, una corona alta y regia que lleva el símbolo de Gigaros y la forma de tres cráneos de caninos.
+
+### Historia
+
+En el juego, Hades sirve como el principal antagonista y el jefe final.
+
+Cuando Zagreo logra salir del Inframundo, se encuentra con Hades esperándolo y los dos luchan, siendo Zagreo quien gana la batalla. Hades, debilitado, le pide a Zagreo que le diga a su madre que Cerbero está bien y es llevado de vuelta al Inframundo antes de que pueda responder alguna de las preguntas de Zagreo. Zagreo logra reunirse brevemente con Perséfone solo debido a la maldición que corre en su familia; Zagreo no puede vivir en la superficie y regresa al Inframundo.
+
+Hades y Zagreo continúan luchando varias veces, ya que Hades creía que Zagreo traería calamidad al Inframundo y dañaría a Perséfone. Durante su último encuentro, Zagreo recrimina a Hades por sus decisiones de mantener a Perséfone a salvo. Hades, sabiendo que su hijo tenía razón, estuvo de acuerdo y lo dejó ir sin pelear.
 
 ### Entrada del Códice
 
@@ -206,6 +255,44 @@ El indicador de afinidad de Perséfone tiene un máximo de 9 corazones, lo que r
 
 El favor de Perséfone implica que ella le pregunte a Zagreo si fue una buena madre. El indicador de afinidad se desbloqueará una vez que se active esta conversación.
 
+### Características y Personalidad
+
+Persephone es la diosa de la cosecha, hija de Deméter, esposa de Hades y madre biológica de Zagreo. Parece exhibir muchas cualidades como su buen humor, naturaleza amorosa, resistencia, imparcialidad, sociabilidad y gran valentía, dejando su reinado como Reina atrás y su morada en el magnífico Monte Olimpo para siempre.
+
+Persephone creció con una madre excesivamente controladora y manipuladora que no la dejaba caminar por sus propios pies y tomar sus propias acciones, por lo que esto fue suficiente para que anhelara libertad y se volviera curiosa y desarrollara un interés en conocer y vivir cosas nuevas. Valora la sinceridad y no podía soportar las constantes peleas, mentiras y traiciones de los olímpicos, lo que la llevó a esconderse y mudarse al Inframundo.
+
+Es considerada buena compañía por Nyx, querida por todos en el Inframundo y la extrañan mucho. Persephone es muy afable, pero sin perder su prestigio, considerada confiable y respetable, tratando a todos como iguales, elogiando a los miembros de la Casa por su buen trabajo. Es una buena líder y sabe sacar lo mejor de todos, haciendo del oscuro Inframundo un lugar más productivo y acogedor.
+
+Persephone es ingeniosa y hábil para adaptarse a nuevas situaciones, tiene "mano verde", lo que explica cómo pudo establecerse en un área deshabitada y cultivar rápidamente varios tipos de vegetales allí. También es hábil para persuadir a otros para lograr sus objetivos, aprovechando su carisma y su posición anterior como reina del Inframundo para convencer al inflexible Caronte de darle un paseo a su destino, un rasgo que Zagreo claramente heredó de ella.
+
+Es muy cálida, afectuosa y aconseja a Zagreo, y se decide que volverá exclusivamente para él. Aunque es muy agradable, Zagreo dice que no es buena idea irritarla porque se da a entender que heredó los poderes de su madre y puede ser igual de destructiva cuando está enojada.
+
+### Descripción fisica
+
+Persephone tiene la apariencia de una mujer de mediana edad. Tiene la piel clara, ojos verdes y cabello rubio pálido. Su cabello tiene similitudes con el de Zagreo, y está atado con una cinta verde, con dos plantas de lavanda metidas en él. Cuando está en la superficie, lleva un vestido sencillo que está atado con una cinta verde. Una cuerda también está atada en forma de equis en su pecho y en sus hombros. También lleva un chal verde, y pulseras doradas simples, junto con una plateada. Sostiene una cesta llena de vegetales en un brazo.
+
+En el retrato familiar, lleva un vestido mucho más largo con detalles dorados, un cinturón detallado en rojo y negro alrededor de su cintura, y se ve una cinta verde. Su cabello está suelto, y lleva aretes rojos y dorados que se parecen a piedras de sangre. Lleva las mismas laureas ardientes que Hades y Zagreo llevan.
+
+Como Reina del Inframundo, su vestido parece ligeramente más largo que su vestido normal. Ahora lleva un vestido negro con rayas blancas y doradas. Lleva un cinturón con una calavera con ojos y boca de joya, y un chal rojo y dorado. Dos calaveras con dientes y ojos dorados adornan sus hombros. Lleva más joyas, incluyendo una pulsera roja, anillos dorados, pulseras doradas y un collar con el símbolo de Hades. Su cabello está atado con la cinta verde de su atuendo de superficie, pero ahora está recogido similar a un moño. Su corona tiene una calavera en la parte superior, y lleva las laureas que también llevan Hades y Zagreo.
+
+### Historia
+
+Aunque Persefone no aparece inicialmente en Hades, se presenta como un personaje misterioso cuyo nombre se considera tabú. Cuando Zagreo descubre su existencia y Hades se niega a revelar cualquier información sobre ella, esto resulta ser el impulso final para que él huya e intente encontrarla. Ella es el personaje responsable de toda la trama del juego, Hades.
+
+Después del primer intento de escape exitoso, Zagreo se encontrará con Persefone en su hogar secreto. Persefone no lo reconoce y reacciona con incredulidad y enojo cuando él se presenta como su hijo, diciéndole que se vaya. Zagreo dice que no le importa si ella lo odia, pero quiere respuestas. Ella revela que, en el momento de su nacimiento, él había muerto, sus pies ardientes apagándose. Ahora, al creer en su identidad, ella reacciona con alegría.
+
+Zagreo le cuenta sobre su viaje a la superficie y le informa que Cerbero está bien, como le pidió su padre cuando lo derrotó por primera vez. Mientras le pregunta qué lo convenció de encontrarla, Zagreo comienza a debilitarse. Él asume que es el clima de la superficie lo que lo afecta porque no está acostumbrado, pero Persefone explica que está ligado al Inframundo y regresará allí. Antes de morir, ella le pide que regrese, sin importar cuánto tiempo le lleve.
+
+En el próximo encuentro, Persefone dice que nunca sintió que perteneciera al Inframundo a pesar de los esfuerzos de quienes estaban dentro para ser acogedores. Según las Moiras, un hijo nacido de habitantes de la superficie no podría sobrevivir en el Inframundo, pero Persefone y Hades intentaron tener un hijo de todos modos. Abrumada por el dolor de que Zagreo naciera muerto, ella dejó el Inframundo y comenzó su propio hogar "Fuera del alcance del Inframundo. Debajo del alcance de Olimpo".
+
+Hades luego revela que las Moiras dijeron que no tendría heredero, y que fue gracias a los esfuerzos de Nyx que sobrevivió, probablemente convenciendo a las Moiras de perdonarlo de la muerte. Antes de morir, él pregunta si Persefone habría regresado si hubiera sabido que él vivía, a lo que ella responde que habría pasado por el infierno para verlo.
+
+Zagreo luego sugiere que Hades está protegiendo a Persefone ya que no puede ser vista por los Olímpicos. Ella se sorprende al saber que Zagreo está al tanto de esto, y luego llegan a la conclusión de que Hades cree que dejándola ir estará a salvo de los Olímpicos, que aún no saben dónde está ella, evitando así una guerra entre Hades y el resto de Olimpo. Mientras Zagreo comienza a debilitarse, Persefone parece arrepentida.
+
+El siguiente encuentro comienza con ella pidiéndole a Zagreo que no regrese con ella después, tanto por su seguridad como por la suya. Zagreo está molesto por esto y discute con ella, pero ella le dice que Hades debe saber lo que está haciendo y que la seguridad de ambos está en riesgo cada vez que él la visita. Al regresar en el próximo intento, Persefone le dirá que se vaya nuevamente, pero él la detiene diciéndole que Hades todavía la ama. Antes de morir, él dice que saber que ella está a salvo no es suficiente y que su familia está unida y tiene que resolver sus problemas juntos.
+
+Después de mostrarle pruebas de que Hades todavía la ama, en el siguiente intento ella empaca sus cosas para regresar al Inframundo, con Caronte llevándola a ella y a Zagreo de regreso.
+
 ### Entrada del Códice
 
 ... En el Inframundo, como en la superficie, ciertos temas nunca deben ser discutidos, especialmente en compañía decente. Bueno, esto no es una discusión, y la compañía que mantengo es bastante limitada. Entonces, consideremos a la Reina del Inframundo; quién era ella, qué le sucedió y por qué nadie parece saber la respuesta a ninguna de esas preguntas. Todo lo que importa en la Casa del Hades está oculto a los vivos y a los dioses de arriba; incluso aquí, el único conocimiento acordado sobre la reina es el castigo indescriptible por invocar su nombre. Deduzco que su reinado debe haber sido de corta duración, ya que no había ni rastro de ella en la Casa. Excepto por un remanente que una vez creí ver. Era algo que nunca debí ver. Un día, o tal vez una noche, yo estaba vigilando el salón del Maestro, cuando él abrió de par en par las puertas de su cámara privada con furia. ¡Entonces la vi! Un espléndido retrato que he anhelado volver a ver desde entonces. ¿Qué hay del Maestro, entonces?
@@ -261,6 +348,30 @@ Después de varios encuentros con las Erinias, Megera conversará con Zagreo en 
 #### Romance
 
 Al alcanzar el máximo nivel de afinidad con Megera, Zagreo tendrá la opción de iniciar una relación romántica con ella o simplemente mantener una amistad. Es posible iniciar relaciones románticas con Tánatos, Dusa y Megera al mismo tiempo, sin que esto tenga repercusiones negativas para Zagreo.
+
+### Características y Personalidad
+
+La primera de las Furias, Megera o Meg, es segura de sí misma, obstinada y realiza su trabajo con perfección. Siente un odio especial hacia los que rompen juramentos y se regocija en torturarlos por toda la eternidad. A pesar de su compostura, su placer al castigarlos es evidente.
+
+Megera desaprueba toda la atención que Zagreo está causando en el Inframundo y no le gusta su naturaleza desafiante. No quiere detenerlo, pero su continua rebelión la obliga a asumir una posición que odia. Hades confía en ella, y su naturaleza cumplidora y respetuosa de la ley no la detendrá si tiene una buena razón para desafiar órdenes.
+
+Zagreo se refiere a ella como su "ex", y ambos admiten que él fue el responsable. Aunque Meg no guarda ningún resentimiento al respecto, descargará su frustración en Zagreo si es derrotada nuevamente por él, y tendrá que castigarlo, y sonará como una "dominatrix", "con él incluso pudiendo llegar a gustarle".
+
+Cuando no está de servicio, tiende a relajarse dentro del Salón e interactuar con otros subordinados de Hades, especialmente Dusa, a quien considera su 'mejor amiga'. Entre sus hermanas, ella es la más equilibrada, cuerda y tranquila, y a menudo se irrita con sus travesuras. Megera tiene una mirada fría, pero también tiene un lado dulce hacia sus amigos y hacia Zagreo. Fuera de la batalla contra el jefe de la Furia, ella es amigable con él y afirma que solo está haciendo su trabajo, no por razones personales.
+
+Megera tiene un lado competitivo, tomando nota de sus victorias o derrotas contra Zagreo. No acepta bien perder contra él, pero sus batallas contra él alimentan una rivalidad amistosa entre los dos, no una vendetta. Incluso si Megera ruega, ya sea que lo desee o no, si no puede manejar la tarea, sus hermanas menores serán contactadas por Hades en su lugar, lo que ella considera como 'medidas extremas'. A pesar de parecer implacable, incluso ella puede tener un lado frágil. Después de un día estresante, en brazos de Nyx, expresará sus frustraciones relacionadas con el trabajo.
+
+### Descripción fisica
+
+Megera irradia una presencia severa pero atractiva con sus ojos amarillos, piel azul pálida y cabello ligeramente más oscuro, recogido en una larga cola de caballo. De su espalda derecha sobresale una gran ala parecida a la de un murciélago, con el interior negro y azul y el exterior rosa y rojo. Tiene labios, uñas de los dedos y uñas de los pies de color rosa brillante. Su atuendo consiste en túnicas gris oscuro y azul profundo adornadas con placas de oro en sus pantorrillas, hombros y muñeca derecha. Además, lleva aretes, una diadema y perforaciones en su fosa nasal izquierda y ceja. Viste ropas a juego con sus hermanas, principalmente en tonos de azul con detalles en oro. Megaera lleva un látigo de cuero rosa brillante como arma de elección.
+
+### Historia
+
+Al principio, Megera es la única Furia presente, y Hades recurre a ella para detener los intentos de escape de Zagreo. Después de que ella fracasa varias veces, Hades recurre a sus hermanas, lo que le disgusta enormemente a Megaera.
+
+Con el tiempo, Zagreo intenta reconstruir una amistad con ella y finalmente tiene éxito. Esto la deja en una situación difícil, ya que tiene que detener a Zagreo por orden de Hades, pero realmente no lo odia y no quiere que él piense así.
+
+Puede surgir una situación en la que Dusa sea despedida por Nyx. Dado que ambas son cercanas, esto enfurece enormemente a Megaera, y ella recurre a Zagreo para resolver la situación, ya que él fue en parte la razón por la que fue despedida. Eventualmente, Dusa es reinstalada en su puesto, y ambas le agradecen al príncipe por ello.
 
 ### Entrada del Códice
 
@@ -341,6 +452,28 @@ Derrotar a Tánatos después de haberle entregado 6 néctares ocasionalmente des
 
 Al alcanzar la afinidad máxima con Tánatos, se desbloqueará una escena en la habitación de Zagreo, donde Zagreo podrá iniciar una relación romántica con él o seguir siendo amigos. No habrá repercusiones negativas si se decide tener una relación romántica con Tánatos, Dusa y Megaera al mismo tiempo.
 
+### Características y Personalidad
+
+Como personificación de la muerte, Tanatos prioriza hacer bien su trabajo y le gusta mantener un registro impecable. A pesar de su sólida ética laboral, esto no le impide moverse en las sombras, ya que Tanatos rompe su juramento de lealtad a la Casa de Hades al ofrecer su apoyo a Zagreo para ayudarlo a escapar.
+
+Para la mayoría en el Inframundo, Tanatos es conocido como un adicto al trabajo crónico y un perfeccionista despiadado: distante, insensible y casi siempre de mal humor. Incluso cuando se disculpa, sus palabras pueden ser duras. Sin embargo, Zagreo afirma que debajo de su exterior espinoso, Tanatos puede ser en verdad receptivo, respetuoso e incluso amigable cuando así lo desea, desmintiendo la imagen de "rey del hielo" que sus años de servicio han cultivado.
+
+Tanatos tiene un estricto código de conducta en el trabajo, especialmente cuando se trata de su hermano gemelo Hypnos. Hypnos tiende a ser descuidado en su trabajo, mientras que Tanatos es metódico, solemne y completa sus tareas de manera ordenada. Tanatos tiende a ignorar o reprender a Hypnos, pero lo ve como un incentivo para que su gemelo mejore. Cuando Hypnos corre el riesgo de perder su trabajo, Tanatos interviene. A medida que Hypnos se vuelve más activo en sus tareas en la Casa, Tanatos lo elogia secretamente, e incluso se disculpa por cómo lo ha tratado anteriormente.
+
+Orgulloso y dubitativo, Tanatos es un "tsundere" que no es honesto acerca de sus sentimientos, pero tampoco es bueno ocultarlos, independientemente de su frío exterior. Todos en el inframundo parecen ya saber cómo se siente acerca de Zagreus, a quien se dice que "adora". Toma las cosas extremadamente en serio, por lo que cuando Zagreus dice que quiere ir más allá con su relación, Tanatos le pide que aclare y espera que Zagreus no piense que está bromeando. Si Zagreus acepta la oferta de Tanatos, deberá entender que el distante e inquietante silencio de Tanatos no indica indiferencia y Zagreus tendrá que lidiar con ello, ya que es simplemente parte de su personalidad.
+
+### Descripción fisica
+
+Tanatos tiene una tonalidad de piel grisácea-marronácea, aunque pálida, delgada y esbelta, pero esculpida con rasgos llamativos y pelo plateado corto que solía ser largo, ahora cayendo en mechones alrededor de su rostro. Tiene ojeras alrededor de sus ojos, con notables ojos dorados que brillan con una luz sobrenatural. Generalmente se le ve con una expresión apática.
+
+Su armadura de cuero oscuro está adornada con alas doradas, similares a las de su hermano gemelo, pero con "tres" adornos en lugar de "cuatro", colocados en un solo hombro. Lleva una capucha que cubre la parte superior de su cabeza y enmarca su rostro, y su capa negra fluye detrás de él mientras se mueve con gracia y agilidad. En su mano, empuña una guadaña negra con una hoja afilada y curva que emite una luz morada que se asemeja a un ojo. La apariencia física de Tanatos emana una aura tranquila y misteriosa que corresponde a su papel como el Dios de la Muerte.
+
+### Historia
+
+Cuando Zagreo comienza sus intentos de escape, Tanatos está demasiado ocupado buscando mortales debido a la guerra en curso y por lo tanto no se da cuenta de ellos hasta mucho más tarde. Eventualmente regresa y se entera de ellos y se dispone a buscar a Zagreo. El príncipe asume que su presencia es otra forma de su padre de detenerlo, lo que molesta mucho a Tanatos, quien de hecho lo está ayudando, y por voluntad propia también.
+
+Tanatos quedó profundamente herido cuando descubrió que Zagreo estaba pensando en irse, principalmente por no haber sido informado de antemano. Sin embargo, con el paso del tiempo y los continuos intentos de escape de Zagreo, Tanatos sigue ayudándolo, a pesar de los riesgos, y llega a comprender mejor sus motivos. Aún así, está triste de que Zagreo no se quede en el Inframundo con él y aquellos que se preocuparon por él y lo vieron crecer.
+
 ### Entrada del Códice
 
 … Pocas divinidades traspasan la frontera que divide el reino exterior, donde habitan los vivos, y este otro, donde moran los muertos. Tánatos ocupa una posición privilegiada entre quienes poseen tal autoridad y poder. Pese a que mi patrono es quien reina en el Inframundo, Tánatos es la Muerte personificada, el hermano del Sueño, el medio para enviar a los mortales al averno, de manera pacífica, todo sea dicho; pues no me topé con él cuando llegó mi hora según los designios de Ares y Apolo. Tan súbita e inexorable resulta la muerte para los mortales como la incuestionable devoción que le profesa Tánatos a su trabajo. Huérfano de padre, siempre honra a su madre, la diosa Nicte. Sirve sin descanso a su patrono, a cuyo hijo adora, a pesar de las diferencias de actitud y mentalidad que separan a ambos. Aunque Tánatos jamás lo reconocería, a mí no me cabe la menor duda. ¿De dónde surgió ese vínculo que comparten? En mi opinión, el hijo del patrono ha de ser el dios de la sangre, de la vida. De ahí que se sientan inevitablemente unidos.
@@ -403,6 +536,34 @@ Al completar este favor, podrás empezar a darle ambrosía. Sin embargo, a difer
 #### Favor
 
 El favor de Nicte forma parte de la Lista de Profecías Menores y requiere que la reúnas con Caos. En algún momento, Nicte te dirá que ha sentido los intentos de Caos por comunicarse con ella. Luego te informará que el puente hacia Caos no puede ser accedido actualmente a través del sigilo más antiguo en la cámara administrativa, pero que puedes cambiar esto utilizando una cierta cantidad de Oscuridad. Una mejora estará disponible en el Contratista de la Casa, requiriendo 3142 de Oscuridad. La razón precisa de este valor no se conoce, pero es la constante pi redondeada a cuatro dígitos multiplicada por mil, y también el número total de dioses griegos según el Proyecto Theoi. Anteriormente, el valor era de 8888 de Oscuridad. Una vez comprada, Nicte usará el sigilo más antiguo para visitar el reino de Caos, y puedes incluso encontrarla allí durante tu recorrido. Cuando regrese a la Casa de Hades, su medidor de afinidad ya no estará bloqueado y podrás darle Ambrosía.
+
+### Características y Personalidad
+
+Nyx es la diosa primordial que personifica la noche. Co-gobierna el inframundo junto a Hades y está más involucrada en el estado del reino en sí que en sus habitantes. Apoya profundamente el deseo de Zagreus de partir y le otorgará el "Espejo de la Noche", que lo ayudará en su búsqueda de respuestas y autodescubrimiento.
+
+Aunque los dioses ctónicos representan aspectos más oscuros de las reflexiones de la humanidad, y por esta razón los olímpicos desprecian a Nyx y la temen, Nyx es considerada benevolente, accesible y maternal hacia Zagreus. Fue la primera en apoyarlo incondicionalmente y en contactar a los dioses olímpicos para ayudarlo a escapar. Nunca se sintió cómoda mintiéndole, incapaz de mirar a Zagreus sin sentir culpa y responsabilidad por las condiciones que lo atan al reino. Se sugiere que Nyx puede saber incluso más que Hades sobre Perséfone, pero no puede decírselo debido a las prohibiciones de Hades, por lo que él tendrá que descubrir los misterios detrás de la desaparición de su madre y de sí mismo por su cuenta.
+
+Aunque apoyarlo significa que tendrá que dejar el "lino" y ella lo verá con menos frecuencia, lo alienta. Nyx pudo traerlo de vuelta de entre los muertos y cambiar su trágico destino, pero eso no la detuvo de reprenderlo o ser dura con él de vez en cuando. Zagreus presenció cómo Nyx era su mayor defensora contra la paternidad controladora de Hades. Conspirará contra Hades y moverá los hilos detrás de escena.
+
+A pesar de su ternura compasiva y su maternidad atenta hacia Zagreus, no suele ser así con sus propios hijos, tratándolos con distancia emocional y profesionalismo porque los fortalecerá. Con autoridad máxima, sus frases terminan con "¿Estamos claros?" No le gusta ser contradicha y puede ser fría, injusta y cometer injusticias, como se muestra con Dusa.
+
+La verdadera razón por la que Nyx decidió ayudar a Zagreus a salir del inframundo para reunirse con Perséfone es que formaba parte de un plan más amplio para poner fin a la rivalidad entre los dioses ctónicos y olímpicos. Sin embargo, genuinamente tiene buenas intenciones detrás de esto.
+
+### Descripción fisica
+
+Nyx, la personificación de la noche y una de las deidades primordiales, comparte el gobierno del inframundo con Hades y está más preocupada por el estado del reino en sí que por sus habitantes. Apoya firmemente el deseo de Zagreus de partir y le otorga el "Espejo de la Noche", una herramienta que lo ayudará en su búsqueda de respuestas y autoconocimiento.
+
+Aunque los dioses ctónicos representan aspectos más oscuros de la humanidad, lo que hace que los olímpicos desconfíen y teman a Nyx, ella es vista como una figura benevolente, accesible y maternal hacia Zagreus. Fue la primera en brindarle un apoyo incondicional y en contactar a los dioses olímpicos para ayudarlo a escapar. Nyx nunca se sintió cómoda mintiéndole a Zagreus y lleva consigo una carga de culpa y responsabilidad por las condiciones que lo atan al reino. Aunque posiblemente tenga más conocimiento sobre Perséfone que Hades, no puede compartirlo debido a las restricciones impuestas por Hades, dejando a Zagreus para descubrir los secretos por su cuenta.
+
+A pesar de que apoyarlo significa que él tendrá que dejar el inframundo y que Nyx lo verá menos a menudo, ella lo alienta. Nyx rescató a Zagreus de la muerte y alteró su destino trágico, pero eso no impide que lo reprenda o sea dura con él de vez en cuando. Ella se opone firmemente a la controladora paternidad de Hades y conspira activamente contra él. Aunque es compasiva y materna con Zagreus, no muestra el mismo trato hacia sus propios hijos, prefiriendo mantener una distancia emocional y tratarlos con profesionalismo para fortalecerlos.
+
+La razón principal detrás de la ayuda de Nyx a Zagreus para salir del inframundo y reunirse con Perséfone es parte de un plan más amplio para poner fin a la rivalidad entre los dioses ctónicos y olímpicos. Aunque sus acciones puedan parecer manipuladoras, Nyx genuinamente tiene buenas intenciones detrás de ellas.
+
+### Historia
+
+A lo largo del juego, Nyx revela a Zagreus que no es su verdadera madre. Aunque Nyx percibe el deseo de Zagreus de partir y encontrar a su madre biológica, no lo obstaculiza. Ella es su primera aliada y orquesta todo discretamente a espaldas de Hades.
+
+Nyx contacta a los dioses olímpicos y les ofrece el Espejo de la Noche para facilitar su viaje.
 
 ### Entrada del Códice
 
@@ -495,6 +656,32 @@ Después de encontrar el documento en la Cámara Administrativa, habla con el Co
 
 La siguiente conversación que tengas con Orfeo hará que te ganes su favor, y completará la profecía "Músico y musa" de la lista de augurios menores.
 
+### Características y Personalidad
+
+Un músico legendario, lamentablemente, la pérdida de su esposa y compañera musical, Eurídice, privó a Orfeo de cualquier deseo de cantar, aunque encanta y hace llorar a quienes lo escuchan. Nadie canta una canción más dulce y triste que él.
+
+A pesar de su reputación por cantar canciones tristes, Orfeo es amable, empático y muy amigable, siendo un buen oyente para Zagreus. Increíblemente, el melancólico Orfeo no siempre fue así; estaba lleno de vida y pasión por la música. Sin embargo, después de su dramática pérdida, quedó completamente devastado y desmotivado para cantar, adoptando una personalidad más amarga y oscura.
+
+Pobre Orfeo, por lo general está triste y deprimido, habiendo abandonado por completo su oficio después de la pérdida de su musa. Aunque todavía toca y canta, su música suena más como un lamento personal. Sin embargo, después de escuchar la épica narrativa contada por Zagreus, se siente súper inspirado y creativo, componiendo rápidamente una canción al respecto, aunque fuera solo una broma de Dionisio.
+
+Cuando Zagreus trae noticias de Eurídice por primera vez, y que todavía pueden reunirse, Orfeo parece no importarle y prefiere revivir sus trágicos recuerdos, tal vez por masoquismo o porque alimenta su creatividad. Zagreus está bastante perplejo por esto, pero Orfeo realmente se siente así porque cree que le falló por completo y piensa que ella está mejor sin él. Al final, a pesar de que ambos son tercos acerca de sus sentimientos, Zagreus lo ayuda a reunirse con ella y su estado de ánimo comienza a mejorar.
+
+### Descripción fisica
+
+La apariencia de Orfeo como una Sombra se caracteriza por una piel pálida y hundida y un cabello extremadamente desordenado de color verde oscuro. Siempre tiene una expresión melancólica, enfatizando su presencia sombría. Según Eurídice, esta es una apariencia relativamente más joven para él, ya que ella lo recuerda con el cabello rizado y un buen bronceado cuando estaban juntos, lo que sorprende mucho a Zagreus.
+
+Lleva un chaleco morado claro con botones azules. Usa un chal marrón con ribetes dorados encima, que sale de su hombro izquierdo y circula alrededor de sus piernas. Tiene unos brazaletes verdes cruzados en su muñeca izquierda, una cinta dorada en la cabeza y su cinturón dorado está decorado con accesorios azules y dorados. Sus uñas son moradas y tiene marcas oscuras que descienden desde sus ojos verdes; también parece tener ojeras. En su mano derecha lleva una lira dorada con detalles azules y tres caras grabadas en ella; también tiene algunos motivos de la naturaleza, como hojas y pequeñas flores.
+
+### Historia
+
+Para el comienzo de la historia, Orfeo ha sido enviado a Tartaro por negarse a cantar debido a su dolor, lo que impide que cumpla su función como músico de la corte. Zagreo está muy molesto por esto, creyendo que es un castigo injusto. Finalmente, Hades lo trae de vuelta a la Casa, y si Zagreo le ofrece algo de Néctar, Orfeo comenzará lentamente a cantar de nuevo.
+
+Durante sus intentos de escape, Dionisio le pedirá a Zagreo que juegue una pequeña broma a Orfeo para levantarle el ánimo. Al hacerlo, Orfeo compondrá el "Himno a Zagreo", que está lleno de las mentiras y sinsentidos que el príncipe le dio. Zagreo intenta explicar que todo es falso, pero Orfeo finge ignorancia, creyendo que el príncipe simplemente está siendo benevolente y le agradece por la inspiración.
+
+Zagreo entra en contacto con Eurídice, transmitiendo esa información al músico. Aunque se alegra de saber que su esposa está bien, Orfeo se siente herido al saber que él es un tema delicado para ella, pero lo entiende. Al enterarse de que ella ha creado una nueva canción, le pide al príncipe que recupere una partitura con ella, para que él también pueda cantarla. Zagreo logra obtener la partitura y se la entrega a Orfeo, quien la agrega a su repertorio, pero la canta ligeramente diferente a Eurídice.
+
+Después de mucho ir y venir, Zagreo logra reescribir el contrato de Orfeo, permitiendo que el músico visite a su esposa en Asfódelo de vez en cuando.
+
 ### Entrada del Códice
 
 … Nadie entona un canto más dulce y triste que Orfeo, quien, si no me equivoco, se cuenta entre los escasos mortales que se aventuraron a bajar al Inframundo y vivieron para contarlo. Ahora habita de manera permanente entre nosotros, apenado por lo que pudo haber sido y nunca fue. El patrono, sin embargo, parece apiadarse de él. O sencillamente le gustan sus cánticos, pues Orfeo ejerce de músico de corte en la morada. Empatizo con su deseo de reunirse con la sombra de la persona que una vez amó y perdió. No obstante, en ocasiones, temo que el músico haya perdido más que su amor. Rezo para que, más pronto que tarde, encuentre a su musa. Pues si él no pudiera, si alguien con tal determinación indomable se rindiese, se resignase a su sino en la muerte... ¿cómo podemos albergar ninguna esperanza el resto de nosotros? El consuelo de la eternidad es saber que todos podemos resolver nuestros problemas con el tiempo y el esfuerzo suficientes. Pero el terror de ella es saber que no podemos escapar a nuestros problemas.
@@ -538,9 +725,21 @@ Si le regalas néctar, Eurídice te dará la Bellota Perenne. La afinidad de Eur
 
 Para ganarte el favor de Eurídice, hay que anular primero el contrato de Orfeo para que pueda visitarla en los Asfódelos
 
-### Personalidad y Características
+### Características y Personalidad
 
 Eurídice es retratada como una figura gentil y compasiva, pero también como alguien profundamente afectado por su situación en el Inframundo. A pesar de su tristeza, muestra una fuerza interior y una habilidad para encontrar belleza y consuelo en la música y la cocina.
+
+### Descripción fisica
+
+Eurídice es una ninfa del roble, adornada con tonos vibrantes y hojas. Como ninfa, siempre está descalza y sin adornos. Su piel, que recuerda a la corteza de un árbol, y su cabello peinado en un moño afro que se asemeja a un árbol atado, enfatizan aún más su conexión con la naturaleza. Constantemente sostiene una rama con hojas de roble en la boca, lo que le da un aire de deducción. Tiene ojos avellana y pendientes de hojas de roble.
+
+Tiene múltiples telas coloridas que la cubren, algunas con retazos. Sus colores varían desde el predominante amarillo hasta azules y verdes, y los retazos aparecen en marrón y morado. Su parte superior está cubierta por una tela blanca sobre una roja, luego cubierta por la tela amarilla. Tiene muchos tatuajes que cubren su parte superior del cuerpo, más notablemente en sus brazos; los tatuajes están todos relacionados con la naturaleza, el que está en su espalda es de una hoja de roble. Lleva un cinturón marrón decorado con más motivos naturales que lo mantienen todo unido, así como un cinturón azul y rojo. Tiene una gruesa cuerda blanca que sirve como cinturón colgante donde lleva tres bellotas (una rosa, una azul y una marrón), una faja hecha de piel y su pandereta, decorada con cuerdas azules y rojas. Lleva un brazalete púrpura y verde oscuro cerca de su codo derecho y un suelto círculo rojo en su muñeca derecha. En su antebrazo izquierdo, lleva un brazalete negro y en su muñeca izquierda tiene una muñequera roja y verde con pequeñas campanas sujetas por cuerda morada. Su pierna derecha tiene tiras de tela sueltas blancas y rojas.
+
+### Historia
+
+Zagreo puede encontrarse con su claro al pasar por Asfódelo. Se ha dedicado a cocinar con la inundación del Flegetonte y le ofrecerá algunas delicias.
+
+Después de un tiempo, Zagreo preguntará por Orfeo y la posibilidad de reunirse, pero ella se negará, y continúa haciéndolo durante un tiempo. Sin embargo, aún extraña a su esposo y termina aceptando la oferta. Zagreo logra reescribir el contrato de Orfeo, permitiéndole ir a Asfódelo y visitar a su esposa, y ella le agradece.
 
 ### Entrada del Códice
 
@@ -724,13 +923,23 @@ Aquiles puede volverse cómicamente serio. Odia las cebollas, y lo gracioso es q
 
 Como un sacrificio honorable por el verdadero amor, después de su muerte, Hades se acercó a Aquiles con la oferta de entrenar a un joven, Aquiles aceptó convertirse en mentor de Zagreo, sacrificando su lugar en Elíseo por Patroclo a cambio.
 
+### Descripción fisica
+
+Aquiles es representado como un hombre adulto bien formado, con una estatura similar a la de Patroclo. Tiene cabello rubio claro y rizado, peinado hacia el lado izquierdo y hacia atrás, y lleva una diadema trenzada como adorno. A menudo se le ve empuñando su lanza. Su capa, conocida como clamys, es verde y coincide con el diseño de la de Patroclo, excepto por el motivo en su broche de capa, que muestra el símbolo de la Casa de Hades. Su armadura plateada para el pecho se extiende hasta formar un cinturón adornado con un patrón de meandro griego. Debajo de su armadura, lleva una túnica blanca, conocida como quitón, cubierta por una envoltura verde en la cintura que se transforma en una falda larga llamada himatión. Su brazo izquierdo está adornado con un brazalete plateado, mientras que su brazo derecho está parcialmente cubierto por su capa. Aquiles también lleva brazaletes con protecciones para las manos, presumiblemente hechas de metal y tiras de cuero, así como protectores dorados para las espinillas. Se le representa descalzo.
+
+### Historia
+
+Habiendo sido el mentor de Zagreo, el príncipe a menudo confía en Aquiles sobre sus intentos de escape, respecto a los enemigos que ha enfrentado, los objetos y personas que ha descubierto y las posibles dificultades. Aunque no tiene nada nuevo que enseñar, Aquiles sigue animando a Zagreo a nunca rendirse y completar su misión. Después de un tiempo, el héroe le entregará su Códice, que ayuda a Zagreo a aprender más sobre aquellos con los que se encuentra, así como sobre los objetos que encuentra, todo desde el punto de vista y el conocimiento limitado de Aquiles.
+
+Cuando Zagreo conoció a Perséfone por primera vez, Aquiles fue el primero en enterarse. Incapaz de ayudar, todo lo que Aquiles puede hacer es seguir animando al príncipe a descubrir la verdad detrás de la situación de su familia. Es en parte gracias a su continuo apoyo y aliento que Zagreo logra traer a su madre de vuelta en absoluto.
+
 ### Entrada del Códice
 
 …No veo motivo para entretenerte con historias de mi pasado. Bate con decir que he combatido, armado de valor, hombro con hombro, con los soldados más aguerridos que el mundo haya conocido. He enterrado a demasiados de esos hombres y he enviado a muchos más a este lugar, donde por fin somos todos compañeros. Por suerte, el patrono de esta morada se apiadó de mí y me libró de la tediosa eternidad del Elíseo, a cambio de una existencia más próxima a los tiempos en que vivía y tenía mis propios quehaceres. Aún así, me siento incompleto y sólo en este lugar, sin la compañía del hombre con quien compartía la vida cuando era carne y hueso. Aunque se encuentra en algún rincón de este reino, nuestro momento hace mucho que pasó. Sin embargo, ya me he equivocado otras veces… ¡tantas! Al creer esto, ¿me estaré equivocando de nuevo? El infinito espera. Con tiempo ilimitado, ¿acaso queda algo que sea imposible de verdad? Y, sin embargo, nuestro tiempo mortal, finito como es, limita y motiva nuestros actos al mismo tiempo. Es por eso que en mí habitan dos personalidades.
 
 ---
 
-### Zeus
+## Zeus
 
 Zeus es el dios olímpico del cielo y el trueno, y el gobernante de los dioses olímpicos. Es el hermano menor de Hades y el tío de Zagreo. Ofrece bendiciones a su sobrino que le otorgan habilidades de rayos o ataques de relámpagos.
 
@@ -800,13 +1009,19 @@ Zeus en todo su esplendor no es puramente egoísta, como lo fue cuando salvó el
 
 Zeus se presenta como un hombre imponente y anciano, con un tono de piel bronceado y una túnica suelta que revela su pecho musculoso. Su cabello y barba son de un blanco puro y emulan las nubes de su dominio celestial. Está armado con su característico rayo, junto con otros dos rayos que lleva en el cabello a modo de corona de laurel. También lleva brazaletes y anillos dorados.
 
+### Historia
+
+Zeus se aparece ante Zagreo después de que intenta escapar por segunda vez del Inframundo y le ofrece sus bendiciones a su sobrino para ayudarlo a escapar. Al igual que el resto de los olímpicos, cree que Zagreo desea unirse a ellos en el Monte Olimpo sin saber que su verdadero objetivo es encontrar a su madre biológica, Perséfone. A menudo hablará de las comodidades que Zagreo tendrá una vez que esté en el Olimpo.
+
+A medida que Zagreo se acerca a la verdad, Zeus le pide que le diga a Hades que "Zeus lo perdona". Esto solo enfurece aún más a Hades, pero Zeus no está al tanto de eso.
+
 ### Entrada del Códice
 
 «… Señor de los cielos, dios entre los dioses; tuvo una gran repercusión en mi vida como mortal. Y ahora, después de la muerte, sirvo a su hermano. No creo que pueda añadir mucho más acerca de Zeus que no sea de dominio público. Derrotó a los titanes, sangre de su sangre, para arrebatarles el control de los cielos y la Nivelra. Desde entonces, lo gobierna todo. Mi señor Hades no le profesa afecto alguno, por motivos que escapan a mi entendimiento. Más parece que hubiera decidido darles la espalda a los dioses del Olimpo por voluntad propia.»
 
 ---
 
-### Poseidon
+## Poseidon
 
 Poseidón es el dios olímpico del mar y de los caballos, y a veces es referido con el epíteto de "Sacudidor de la Tierra". Él, al igual que muchos de sus compañeros olímpicos, ofrece bendiciones a Zagreo que aumentan significativamente el daño de sus habilidades, así como causan que sus habilidades infligan Retroceso.
 
@@ -881,6 +1096,10 @@ Tan profundo como el océano, a pesar de su positividad y actitud despreocupada,
 
 Poseidón es un hombre mayor, pero aún robusto. Como el dios de los océanos, Poseidón tiene una expresión relajada, piel bronceada, una larga barba puntiaguda y cabello verde azulado que evoca olas y burbujas. Lleva consigo su tridente verde, que sostiene una perla morada. Algunos vellos corporales son visibles. Usa una larga bufanda, y su atuendo consta de un turbante adornado con imágenes marinas envuelto alrededor de su cintura, con una pierna prominentemente expuesta. Lleva pulseras en sus brazos y muñecas. Poseidón lleva una tiara diseñada adornada con caballitos de mar, sus criaturas simbólicas.
 
+### Historia
+
+Poseidón es uno de los dioses que acude en ayuda de Zagreo. Está muy emocionado de conocer a su sobrino y presta activamente su ayuda. Se retrata a sí mismo como alguien muy amigable a quien Zagreo realmente le gustaría conocer, pero los demás suelen señalar su imprudencia. También le encanta hablar sobre los peces, pero principalmente se centra en animar a su sobrino.
+
 ### Entrada del Códice
 
 … Señor de los mares, provocador de temblores de tierra, hermano de los dioses Hades y Zeus… el dios Poseidón. Le estoy eternamente agradecido porque se mostró clemente conmigo en vida. Aquí, no obstante, confieso que rara vez percibo su influencia. Ahora… todos estamos por debajo de él. ¿A cuántos hermanos míos ahogó en mis días como mortal? Aunque puede parecer afable a primera vista, sigo sin perdonárselo. Mi señor Hades, que lo equipara con Zeus, tampoco siente mucho afecto por él. Rehúye a ambos por igual. A mi juicio, es preferible evitar ese peliagudo asunto.
@@ -889,9 +1108,9 @@ Poseidón es un hombre mayor, pero aún robusto. Como el dios de los océanos, P
 
 ## Atena
 
-Atenea es la Diosa Olímpica de la sabiduría y la guerra estratégica. Ofrece bendiciones a Zagreo que hacen que sus habilidades desvíen los ataques enemigos. Además, también proporciona bendiciones que reducen el daño o aumentan otras opciones defensivas.
+Atene es la Diosa Olímpica de la sabiduría y la guerra estratégica. Ofrece bendiciones a Zagreo que hacen que sus habilidades desvíen los ataques enemigos. Además, también proporciona bendiciones que reducen el daño o aumentan otras opciones defensivas.
 
-Atenea brinda excelentes opciones defensivas con sus bendiciones, protegiéndote del daño al desviar proyectiles y ataques cuerpo a cuerpo enemigos, así como reducir el daño que recibirás en una partida.
+Atene brinda excelentes opciones defensivas con sus bendiciones, protegiéndote del daño al desviar proyectiles y ataques cuerpo a cuerpo enemigos, así como reducir el daño que recibirás en una partida.
 
 Su Maldición de Estado característica es Expuesto, lo que hace que los enemigos reciban daño adicional desde atrás. Esto se acumula con los bonos de Ataque por la Espalda ofrecidos por el Espejo de la Noche.
 
@@ -931,29 +1150,35 @@ Marin Miller
 
 ### Afinidad
 
-Si le das Néctar, Atenea te dará el Colgante de Búho.
+Si le das Néctar, Atene te dará el Colgante de Búho.
 
-La barra de afinidad de Atenea se maximiza a 7 corazones.
+La barra de afinidad de Atene se maximiza a 7 corazones.
 
 #### Favor
 
-El favor de Atenea requiere ver las tres observaciones de Atenea después de completar una partida con éxito, reconociendo la fuerza de Zagreo.
+El favor de Atene requiere ver las tres observaciones de Atene después de completar una partida con éxito, reconociendo la fuerza de Zagreo.
 
 ### Características y Personalidad
 
-Serena, grácil y refinada, Atenea es la primera deidad contactada por Nyx y ofrece su ayuda a Zagreo. Como diosa de la sabiduría y la estrategia militar, Atenea desea sinceramente que su primo escape de su injusto encarcelamiento con un plan elaborado.
+Serena, grácil y refinada, Atene es la primera deidad contactada por Nyx y ofrece su ayuda a Zagreo. Como diosa de la sabiduría y la estrategia militar, Atene desea sinceramente que su primo escape de su injusto encarcelamiento con un plan elaborado.
 
-Atenea tiende a ser menos personal con Zagreo en comparación con los otros dioses y no comparte detalles de su vida personal o intereses, ya que siempre se enfoca en ayudar a Zagreo a escapar, siendo la única olímpica dispuesta a ayudar simplemente porque es lo correcto. Ella respeta genuinamente a su primo como miembro de su familia.
+Atene tiende a ser menos personal con Zagreo en comparación con los otros dioses y no comparte detalles de su vida personal o intereses, ya que siempre se enfoca en ayudar a Zagreo a escapar, siendo la única olímpica dispuesta a ayudar simplemente porque es lo correcto. Ella respeta genuinamente a su primo como miembro de su familia.
 
-Atenea puede considerarse claramente la hija favorita de su padre Zeus, quien constantemente presume de su astucia, aunque Atenea niega cualquier semejanza con él. Por otro lado, está igualmente dispuesta a castigar a Zagreo por aceptar la bendición de otro dios en lugar de la suya cuando tiene la opción. De hecho, detrás de su imagen de hija "perfecta" y obediente, tranquila y calculadora, Atenea puede perder la compostura al interactuar con otros dioses, como es el caso con Afrodita, con quien se lleva como agua y aceite.
+Atene puede considerarse claramente la hija favorita de su padre Zeus, quien constantemente presume de su astucia, aunque Atene niega cualquier semejanza con él. Por otro lado, está igualmente dispuesta a castigar a Zagreo por aceptar la bendición de otro dios en lugar de la suya cuando tiene la opción. De hecho, detrás de su imagen de hija "perfecta" y obediente, tranquila y calculadora, Atene puede perder la compostura al interactuar con otros dioses, como es el caso con Afrodita, con quien se lleva como agua y aceite.
 
-A pesar de sus buenas intenciones, los comentarios de los Olímpicos indican que Atenea es una especie de "sabelotodo", una "genio insoportable" que considera sus ideas superiores a las de los demás. Artemisa comenta que nunca sabe con certeza si Atenea está tratando de demostrar algo o de presumir. Otros dioses olímpicos indican que es algo aduladora y que su benevolencia es solo un acto.
+A pesar de sus buenas intenciones, los comentarios de los Olímpicos indican que Atene es una especie de "sabelotodo", una "genio insoportable" que considera sus ideas superiores a las de los demás. Artemisa comenta que nunca sabe con certeza si Atene está tratando de demostrar algo o de presumir. Otros dioses olímpicos indican que es algo aduladora y que su benevolencia es solo un acto.
 
-De hecho, bajo toda su aparente benevolencia, Atenea está lejos de ser tan sabia como se esperaría de una diosa de la sabiduría, teniendo sus propios secretos y posiblemente habiendo cometido errores graves en su pasado. Caos especula que la verdadera razón por la que Atenea carga con todo sobre sus hombros y está tan ansiosa por ayudar a Zagreo a escapar del inframundo es que lo ve como una forma de redención personal, considerándolo "una herramienta con la cual su familia rota aún puede ser reparada" y para corregir la ruptura entre los dioses olímpicos y ctónicos.
+De hecho, bajo toda su aparente benevolencia, Atene está lejos de ser tan sabia como se esperaría de una diosa de la sabiduría, teniendo sus propios secretos y posiblemente habiendo cometido errores graves en su pasado. Caos especula que la verdadera razón por la que Atene carga con todo sobre sus hombros y está tan ansiosa por ayudar a Zagreo a escapar del inframundo es que lo ve como una forma de redención personal, considerándolo "una herramienta con la cual su familia rota aún puede ser reparada" y para corregir la ruptura entre los dioses olímpicos y ctónicos.
 
 ### Descripción Fisica
 
-Atenea se presenta como una figura imponente de guerrera, alta y erguida, con un tono de piel gris oscuro, posando como una estatua, con el cabello trenzado de color lavanda y ojos a juego. Lleva una brillante armadura dorada con una Gorgona estampada en la cadera y túnicas ligeras, coronada con un casco azul con un penacho de crin de caballo. Sostiene un búho, su animal sagrado, en una mano y está armada con su característico escudo dorado, adornado con discos dorados en la frente, las orejas y el pecho.
+Atene se presenta como una figura imponente de guerrera, alta y erguida, con un tono de piel gris oscuro, posando como una estatua, con el cabello trenzado de color lavanda y ojos a juego. Lleva una brillante armadura dorada con una Gorgona estampada en la cadera y túnicas ligeras, coronada con un casco azul con un penacho de crin de caballo. Sostiene un búho, su animal sagrado, en una mano y está armada con su característico escudo dorado, adornado con discos dorados en la frente, las orejas y el pecho.
+
+### Historia
+
+Atena es la que Nyx contacta para que los olímpicos brinden su ayuda a Zagreo en sus intentos de escapar. Se le informa a Atena que Zagreo desea salir del Inframundo y reunirse con su familia en la superficie, pero esto es solo una mentira para convencerlos de unirse a su causa.
+
+Ella prestará activa y gustosamente su ayuda a Zagreo. Sus puntos de conversación son principalmente palabras de ánimo para Zagreo, y no suele sacar otros temas con frecuencia.
 
 ### Entrada del Códice
 
@@ -1105,3 +1330,391 @@ Artemis es uno de los dioses olímpicos que ofrece su ayuda a Zagreo. Sus conver
 ---
 
 ## Ares
+
+Ares es el Dios olímpico de la guerra. A diferencia de Atenea, que se orienta más hacia la estrategia, el dominio de Ares abarca los aspectos físicos, violentos e indómitos de la guerra.
+
+Ofrece bendiciones a Zagreo que pueden aumentar el daño de sus habilidades, infligir su maldición característica, Perdición, o crear Grietas de Hoja que causan daño rápido a los enemigos que las atraviesan.
+
+Las bendiciones de Ares infligen grandes cantidades de daño con el tiempo, ya sea manteniendo a los enemigos dentro de las Grietas de Hoja o aplicando continuamente Perdición a los enemigos.
+
+Su maldición característica es Perdición, que hace que los enemigos reciban una gran cantidad de daño poco después de ser afectados, consumiendo la maldición. Ares también ofrece bendiciones que aumentan la efectividad de su maldición, como Desgracia Terrible.
+
+### Título
+
+Dios de la Guerra
+
+### Relaciones
+
+- Zeus (padre)
+- Hera (Madre)
+- Atena (media hermana mayor)
+- Hefesto (hermano menor)
+- Artemisa (media hermana menor)
+- Apolo (medio hermano menor)
+- Hermes (medio hermano menor)
+- Dioniso (medio hermano menor)
+- Cronos (abuelo paterno)
+- Rea (abuela paterna)
+- Hyperion (abuelo materno)
+- Theia (abuela materna)
+- Hades (tío paterno)
+- Poseidón (tío paterno)
+- Deméter (tía materna)
+- Helios (tío materno)
+- Selene (tía materna)
+- Eos (tía materna)
+- Perséfone (prima materna)
+- Zagreus (primo paterno)
+- Melinoë (prima paterna)
+- Afrodita (cuñada/amante)
+
+### Afiliación
+
+Monte Olimpo
+
+### Doblaje
+
+Cyrus Nemati
+
+### Afinidad
+
+Si le das Néctar, Ares te dará el Frasco Lleno de Sangre.
+
+La barra de afinidad de Ares se completa con 7 corazones.
+
+#### Favor
+
+El favor de Ares requiere completar la profecía Sed de Sangre del Dios de la Guerra y matar un mínimo de 10,000 enemigos en total. La barra de afinidad no se desbloqueará inmediatamente al completar la profecía, sino después de una conversación con Ares en algunos encuentros posteriores.
+
+### Características y Personalidad
+
+Ares es un amante de la guerra y el caos, y aunque pueda mostrar una conducta calmada y cortés, disfruta del caos de la batalla. Como el Caballero Sangriento, está dispuesto a ayudar a su primo Zagreo en sus luchas en el Inframundo, llevando consigo un rastro de caos allá donde va en su nombre.
+
+Los otros olímpicos no son particularmente aficionados a Ares, y pueden maldecirlo por sus débiles cumplidos. Encuentran inquietante su sed de carnicería cortés. Ares es muy seguro de sí mismo, incluso arrogante, acerca de sus bendiciones y a menudo presume de cómo sus bendiciones son mejores o ayudarán más a Zagreo que las de otros dioses, especialmente las de Atenea. Ellos ven a Ares como una mala influencia para Zagreo. Afrodita, por otro lado, no parece importarle y lo considera un "chico malo".
+
+El Dios de la Guerra es frecuentemente malentendido por sus compañeros olímpicos. Artemisa, en particular, encuentra las conversaciones de Ares "embarazosas", ya que siempre deja entrever sus "peculiares gustos" y prefiere mantenerse alejada de él, con sus intentos de iniciar una conversación siempre terminando en desastre. Ares admira en secreto a los dioses ctónicos por sus roles más oscuros, y es el único olímpico que los trata con algo más que una fría amabilidad. Desafortunadamente, su alegría en la muerte no es compartida ni siquiera por los dioses ctónicos, quienes la ven más como un aspecto mundano de su trabajo.
+
+En conversación con Caos, se revela que, sorprendentemente, Ares es uno de los pocos que todavía los venera. Sin embargo, se sugiere que la adoración de Ares hacia "el caos" estaba equivocada, ya que lo confundió con el vasto e infinito vacío de violencia y desorden. También menciona haber estudiado "todos los diseños del destino" y es el único dios que expresa familiaridad con Excalibur, lo que implica que sabe mucho más sobre el futuro que Atenea.
+
+### Descripción Fisica
+
+Ares se describe como un hombre poderoso de hombros anchos, piel oscura y pintura de guerra blanca sobre los ojos. Está vestido con un complejo conjunto de pesada armadura de batalla y una capa muy desgarrada. Sin embargo, su casco dorado está dañado con una gran "X" roja tallada en la frente, y lo sostiene en sus brazos, revelando su cabello blanco, mandíbula fuerte y una corona de laurel de hojas negras. Ares está armado con un kopis de filo rojo, junto con otras dos espadas atadas a su espalda. Su armadura corporal tiene un diseño inspirado en un buitre, uno de sus animales sagrados, con un gran motivo de cara de cuervo en el pecho, además de decoraciones negras en forma de plumas en sus hombreras.
+
+### Historia
+
+Ares es uno de los dioses que se acerca a Zagreo. Está ansioso por prestarle sus poderes a su primo para ayudarlo en sus combates y desearía poder estar presente para verlo. A menudo habla sobre la guerra y la muerte, y expresa su respeto y admiración por los dioses ctónicos, además de alentar a Zagreo en sus matanzas y desearle muchas más.
+
+### Entrada del Códice
+
+… Aunque mi corazón hace tiempo que dejó de latir, aún alberga amor hacia todos los dioses… salvo por uno, el que me creó y luego me llevó a la perdición. No guardo palabras amables para él, excepto, quizá, en la forma de esta concesión: la guerra, como los cielos y el mar, se puede considerar una fuerza de la naturaleza. Le gusta someter a los hombres, para que así jamás proliferen en demasía ni se vuelvan tan poderosos como los dioses. Y, a pesar de todo, los hombres veneran a Ares, pues en el fondo son idénticos. Lo sé bien. También fui guerrero. Solo al morir comprendí lo errado que estaba.
+
+---
+
+## Dioniso
+
+Dionisio es el Dios olímpico del vino y la locura, y primo de Zagreo. Ofrece bendiciones a Zagreo que giran en torno a su maldición característica, Resaca, además de ralentizar y aturdir a los enemigos, así como diversas bendiciones relacionadas con la bebida.
+
+Dionisio proporciona habilidades de daño continuo en casi todas sus bendiciones ofensivas. Sin embargo, también puede otorgar a Zagreo habilidades útiles en forma de aturdimientos, ralentizaciones, curaciones y salud, efectos de reducción de daño y objetos.
+
+Su maldición característica es Resaca, que inflige daño continuo a los enemigos afectados cada medio segundo. Resaca puede acumularse en un enemigo hasta un máximo de 5 veces, y las acumulaciones se desgastan una a la vez después de 4 segundos.
+
+### Título
+
+Dios del Vino
+
+### Relaciones
+
+- Zeus (padre)
+- Sémele (Madre)
+- Hades (tío paterno)
+- Poseidón (tío paterno)
+- Hestia (tía adoptiva)
+- Deméter (tía adoptiva)
+- Hera (madrastra)
+- Atenea (media hermana mayor)
+- Ares (medio hermano mayor)
+- Hefesto (medio hermano mayor)
+- Artemisa (media hermana mayor)
+- Apolo (medio hermano mayor)
+- Hermes (medio hermano mayor)
+- Heracles (medio hermano mayor)
+- Cronos (abuelo paterno)
+- Rea (abuela paterna)
+- Zagreus (primo paterno)
+- Melinoë (prima paterna)
+
+### Afiliación
+
+Monte Olimpo
+
+### Doblaje
+
+Cyrus Nemati
+
+### Afinidad
+
+Si le das Néctar, Dionisio te dará la Copa Rebosante.
+
+La barra de afinidad de Dionisio se completa con 7 corazones.
+
+#### Favor
+
+El favor de Dionisio requiere forjar lazos con al menos 6 personajes diferentes y regalar un mínimo de 10 Ambrosías a cualquier número de personajes.
+
+### Características y Personalidad
+
+Dionisio es el dios del vino, la juerga y la locura. Es generalmente muy receptivo, amante de la diversión y juguetón. Se une a la ayuda a Zagreo en su intento de escapar porque encuentra entretenido ver a Zagreo mientras disfruta de un buen vino. Incluso su forma de hablar tiende a ser un poco arrastrada, como si siempre estuviera un poco borracho.
+
+De buen carácter, Dionisio es probablemente el más amigable entre sus compañeros olímpicos y solo le importa una cosa: divertirse. Usa términos informales para dirigirse a su primo, como "chico" o "Príncipe Z", mientras lo ayuda genuinamente y le enseña el arte de gastar bromas con su nuevo amigo. Aunque algunos miembros de la familia piensan que Dionisio solo participa porque considera todo esto una "fiesta", él realmente cree que descubrir a un pariente perdido es motivo de celebración.
+
+Dionisio parece tomarse las cosas con calma, pero también es el "Dios de las Travesuras" y puede sugerir a su primo una "diversión inofensiva". Aunque no es Hermes, es muy hablador. Su naturaleza tranquila y relajada puede ser divertida, pero también experimenta intensos altibajos emocionales y se le puede ver llorando, enojándose, olvidándolo todo, contando su versión distorsionada de las cosas, que puede no ser exactamente como la recuerda. Esto podría ser un efecto secundario de llenar su copa demasiado para olvidar el dolor.
+
+A pesar de su imagen despreocupada y descuidada, el Dios de las Fiestas y el más joven entre los olímpicos en realidad resiente ser considerado inarticulado y subestimado. Tiene la reputación de asistir a las reuniones familiares completamente borracho. Sin embargo, su poder no debe subestimarse, ya que Dionisio puede fácilmente poner a todos de su lado emborrachándolos.
+
+El más querido por los mortales, Aquiles señala que Dionisio es el único dios sin pretensiones en el Olimpo que genuinamente parece gustarle los mortales. Actúa de manera casual y amigable hacia Zagreo, posiblemente porque él mismo fue una vez un semidiós.
+
+### Descripción Fisica
+
+El dios de las fiestas es desinhibido y lleva un chiton corto y ancho de color púrpura ahumado. Su apariencia muestra su cuerpo esculpido. Usa brazaletes dorados en las muñecas y los muslos, y adorna sus hombros con enredaderas y piel de animal. Sus vestimentas a menudo imitan las plantas y racimos de uvas en los rizos de su cabello. En su mano derecha lleva su bastón de hinojo adornado con una piña, el llamado tirso, símbolo de prosperidad, fertilidad y hedonismo. Dionisio es un hombre de piel oscura y brillante, con una expresión desorientada o en éxtasis.
+
+### Historia
+
+Dionisio eventualmente se comunicará con Zagreo y le ofrecerá su ayuda en los intentos del príncipe por escapar. Habiendo crecido en un lugar muy aislado, Zagreo se sorprende al experimentar la fiesta, aunque sea mínima.
+
+Después de que Zagreo llegue a la superficie por primera vez, Dionisio comentará cómo los dioses del Olimpo podían sentir su presencia, pero luego dejaron de hacerlo repentinamente. A pesar de ello, el dios no deja que eso le impida intentar ayudar a su querido primo.
+
+De alguna manera, Dionisio se enteró de que Orfeo no se ha sentido bien últimamente, y para animarlo, le pide a Zagreo que invente una historia sobre cómo ellos dos son la misma persona, esperando que esto traiga creatividad y levante el ánimo del músico. Al final, la broma se salió de control, pero Dionisio está satisfecho de todos modos.
+
+### Entrada del Códice
+
+«… Tal vez deba sentir cierta afinidad por este relajado hijo de Zeus, pues cuentan que tiene sangre mortal, además de divina. Eso explicaría por qué, de entre todos los dioses olímpicos, es tan amado por los mortales: porque les devuelve ese amor y les aporta más alegrías que sufrimiento, al menos la mayor parte del tiempo. Aunque se muestra muy distinto a las demás deidades en este respecto, mantiene una estudiada distancia con el Inframundo, cortando los lazos que le unen con sus seguidores mortales en el momento de la muerte. ¿Para qué atender las congojas de los muertos cuando se puede vivir en un festín eterno?»
+
+---
+
+## Melinoe
+
+Melinoë, la Princesa del Inframundo, es la hija de Hades y Perséfone, la hermana menor de Zagreo y es la protagonista de Hades II.
+
+Melinoë es una ninfa ctónica asociada con los fantasmas y las pesadillas. Antes de los eventos que preceden a Hades II, mientras la familia de Melinoë vivía una vida feliz en el inframundo, el titán Cronos se liberó de su prisión en lo más profundo del Tártaro y tomó el control del Inframundo. Por orden de su padre, Hécate llevó a Melinoë y la entrenó para ser una asesina de titanes.
+
+Ahora Melinoë debe descender al Inframundo y derrotar a Cronos.
+
+### Título
+
+Princesa del Inframundo
+
+### Relaciones
+
+- Hades (padre)
+- Perséfone (Madre)
+- Zagreo (hermano mayor)
+- Cronos (abuelo paterno)
+- Rea (abuela paterna)
+- Granjero Mortal (abuelo materno)
+- Deméter (abuela materna)
+- Poseidón (tío paterno)
+- Zeus (tío paterno)
+- Helios (tío abuelo materno)
+- Selene (tía abuela materna)
+- Eos (tía abuela materna)
+- Hestia (tía abuela materna)
+- Hera (tía abuela materna)
+- Hyperion (bisabuelo materno)
+- Theia (bisabuela materna)
+- Atenea (prima paterna)
+- Ares (primo paterno)
+- Hefesto (primo paterno)
+- Artemisa (prima paterna)
+- Apolo (primo paterno)
+- Hermes (primo paterno)
+- Dioniso (primo paterno)
+
+### Afiliación
+
+Hermanas de plata
+
+### Doblaje
+
+Judy Alice Lee
+
+### Características y Personalidad
+
+La Princesa del Inframundo ha sido entrenada toda su vida para matar a Cronos, pero a pesar de todo lo que le han arrebatado, nunca permitió que el resentimiento la consumiera. Melinoë es resistente, trabajadora, compasiva y amigable con todos, esforzándose por llevarse bien con todos más allá de su alcance. A pesar de ser una diosa oscura y su posición, corre contra el tiempo pero no dejará de cumplir con los demás y mostrar amabilidad. Una vista rara tanto en el inframundo como en la superficie.
+
+Melinoë, a pesar de ser una feroz combatiente, tiene un corazón tierno y desea reunir a los separados, como los hijos de Nyx. Es educada, diplomática y bien educada, continúa siendo irrazonablemente amable con todos, a veces incluso demasiado, lo que puede hacer que aquellos no acostumbrados a tales elogios la encuentren "extraña". También alberga perspectivas divergentes sobre la mayoría de los personajes: adora al adormecido Hipnos, considera al Comandante Schelemeus con respeto experimentado y mantiene una visión idealizada de su familia en cierto grado. Al encontrarse con alguien que expresa desdén hacia sus compañeros, Melinoe no solo se siente perpleja, sino también profundamente intrigada.
+
+Melinoë solo desea cumplir con su deber, honrar a su mentora y reunir a su familia. Usa honoríficos respetuosos al referirte a todos, ya sean dioses nobles o menores, excepto a Cronos a quien insulta.
+
+Melinoë es amante de los animales y no puede evitar detenerse en su misión solo para acariciarlos. También se horroriza al ver a Cerbero dañado y hace todo lo posible para aliviar el dolor de la bestia. Su magnetismo con las criaturas vivas se extiende hasta el punto en que estas se alinean con ella como sus familiares. Además, tiene una extraña conexión con las fuerzas del inframundo, las sombras y los fantasmas que parecen seguirla.
+
+Melinoë es una estudiante dedicada y no le gusta el desorden, ya que mantiene su habitación ordenada y le molesta el desorden, reprendiendo a Dora por colocar una sola ampolla mal en su estante y molesta por la basura que Eris deja frente a ella.
+
+Puede ser extremadamente inocente, invitando a Odiseo a un baño en las aguas termales, sin darse cuenta de que lo está avergonzando un poco cuando comienza a desnudarse frente a él.
+
+A pesar de su dulzura, Melinoë es vengativa contra los enemigos de la Casa de Hades, especialmente contra Cronos, y declara que no se rendirá hasta que todos los traidores de la Casa de Hades estén rotos a sus pies o hasta que tome el trono robado de Cronos y recupere lo que él le arrebató.
+
+### Descripción Fisica
+
+Melinoë, al igual que su hermano mayor Zagreo, tiene heterocromía, con un ojo rojo como el de su padre y el otro verde como el de su madre. Sin embargo, los colores están invertidos en relación con los suyos. Su brazo izquierdo parece espectral, con un resplandor verde sobrenatural que revela su esqueleto que se puede ver dentro de él. Según Hécate, perdió ese brazo en un accidente relacionado con la magia durante sus primeras prácticas. En una conversación con Ícaro, se revela que perdió este brazo mientras intentaba hacerlo "completo" nuevamente. Su cabello es rubio trigo como el de su madre, el corte es corto y no comparte las características puntiagudas de ella y de Zagreo. Su piel es pálida como la de su hermano, pero es esbelta y menos musculosa que él, y al igual que su padre y su hermano, sus pies descalzos brillan con calidez.
+
+Adorna su cabeza con una corona de laurel que brilla como brasas cuando está sobre su cabeza, similar a la de su hermano. Separando sus flequillos en el centro hay una luna creciente orientada hacia arriba en su frente. Lleva un vestido corto de color azafrán abrochado hasta el cuello, con sus miembros adornados con ornamentos metálicos, incluidas formas lunares en su pierna derecha. En su pierna izquierda, Melinoë lleva una cuerda trenzada en los colores naranja, verde, azul y negro, que coincide con la de los miembros de las Hermanas Plateadas, de las cuales Melinoë forma parte.
+
+### Entrada del Códice
+
+"Tú. Sé todo sobre ti. Especialmente que eres débil.
+
+....
+
+¿Por qué estás luchando? ¿Qué esperas probar? Y si por algún golpe del destino prevaleces, ¿qué entonces? Considera todo esto mientras estás fuera y alrededor.
+
+(no hay más escrito...)"
+
+## Demeter
+
+Deméter es la diosa de las estaciones. Es hija de los titanes Hiperión y Tea, y hermana de Hestia, Hera, Helios, Selene y Eos. Junto con sus hermanas mayores y menores, Hestia y Hera, Deméter se unió al lado de Zeus y lo ayudó a derrotar a los Titanes.
+
+Muchos de los dones que ofrece a Zagreo infligen su Marca de Maldición característica, el Frío, que hace que los enemigos se ralenticen y, posiblemente, se congelen, propagando la Maldición. Además de eso, ofrece el segundo aumento porcentual de daño más alto. Sus otros dones varían entre ayudar a la supervivencia mediante la curación, aumentar el daño o potenciar tus diferentes dones con el tiempo al aumentar su rareza.
+
+Los dones de Deméter destacan en el control, ya que el Frío ralentiza a los enemigos cuanto más los golpea Zagreo. Dado que el Frío es fácil de acumular y mantener, esto también habilita una buena sinergia con la Mejora del Espejo de la Noche, Estado Privilegiado.
+
+Deméter solo aparece después de llegar a la superficie por primera vez (simplemente alcanzando al jefe final, no es necesario derrotarlo), lo que la convierte en una de las cinco diosas olímpicas (las otras cuatro son Poseidón, Hermes, Afrodita y Zeus) que no aparecerán en la primera carrera de una partida guardada.
+
+### Título
+
+Diosa de las Estaciones
+
+### Relaciones
+
+- Hiperión (padre)
+- Theia (Madre)
+- Perséfone (Hija)
+- Zagreus (nieto)
+- Melinoe (nieta)
+- Hestia (hermana mayor)
+- Hera (hermana menor)
+- Helios (hermano menor)
+- Selene (hermana menor)
+- Eos (hermana menor)
+- Hades (hermano adoptivo/yerno)
+- Poseidón (hermano adoptivo)
+- Zeus (hermano adoptivo/cuñado)
+- Atenea (sobrina adoptiva)
+- Ares (sobrino)
+- Hefesto (sobrino)
+- Artemisa (sobrina adoptiva)
+- Apolo (sobrino adoptivo)
+- Hermes (sobrino adoptivo)
+- Dioniso (sobrino adoptivo)
+
+### Afiliación
+
+Monte Olimpo
+
+### Doblaje
+
+Laila Berzins
+
+### Afinidad
+
+Si se le da Néctar, Deméter te dará el Cuerno Helado.
+
+El medidor de afinidad de Deméter alcanza un máximo de 7 corazones, lo que requiere regalar 6 Néctares y 1 Ambrosía.
+
+#### Favor
+
+El favor de Deméter requiere completar el Epílogo y luego tener algunas instancias de diálogo con ella. El favor se completa cuando Deméter pide a Zagreo que "sea más franco con ella" la próxima vez.
+
+Aunque no es posible forjar un vínculo con Deméter antes de que se complete el Epílogo, maximizar su medidor de afinidad hasta el corazón bloqueado contará para cumplir con los requisitos para activar el Epílogo.
+
+### Características y Personalidad
+
+La Dama Deméter, la Diosa de la Cosecha, la Agricultura y las Estaciones, solía ser benevolente, trabajadora, de voluntad fuerte y protectora. Sin embargo, su dolor y tristeza por perder a su amada hija Perséfone resultaron en el infame "Invierno Eterno", lo que la llevó a adoptar una apariencia más invernal y una personalidad amarga.
+
+Como madre, era amable pero excesivamente controladora, manteniendo a su hija bajo una estricta vigilancia por miedo a su seguridad. Debido al origen mortal de Perséfone, la veía como frágil y se negaba a considerar sus sentimientos, ni siquiera escuchándola cuando intentaba contarle sobre Hades. Su sobreprotección condujo a un distanciamiento entre ellas.
+
+La Reina de Hielo, en sus interacciones con otros dioses olímpicos, se muestra despreciándolos y culpando injustamente a los mortales por la desaparición de Perséfone. Es bastante imperiosa, resentida y solo parece tener en alta estima a su hija y más tarde a Zagreo. Le respetan y se muestran cautelosos a su alrededor, temiendo lo que la mayor de los dioses olímpicos podría hacer.
+
+Incluso los más inflexibles de los dioses olímpicos parecían ceder ante Zagreo, a pesar de su 'mirada de acero', su renuencia y desconfianza hacia todos, y no tirar la toalla. Sin embargo, gradualmente, ella se abre y corresponde a la amabilidad cautivadora del joven, viendo en él 'algo "familiar" a sus ojos' y recordando tiempos más felices cuando solía tener un corazón tierno. Ella le ayuda en su escape del confinamiento.
+
+Al principio, parece actuar como una especie de matriarca helada, siempre rígida y amargada en presencia de Zagreo. Amargamente le aconseja a Zagreo que nunca se enamore de un mortal, ya que tales casos están condenados al fracaso. Cuando descubre que Zagreo es en realidad su nieto, se calienta en su presencia y actúa con más sensatez con todos. Deméter comienza a ablandarse con él, llamándolo cariñosamente "pequeño brote" y deshaciendo su invierno eterno con el regreso de Perséfone, poco a poco calentando su corazón congelado. Pero deja claro que no ha olvidado el incidente, dejando una parte del Monte Olimpo congelada como un recordatorio perpetuo de que no había olvidado el incidente.
+
+### Descripción Fisica
+
+La apariencia de Deméter está tematizada en torno al invierno y la disminución de la vida. Es una anciana con labios azules y cabello blanco plateado trenzado en dos mechones que cruzan su pecho y se enrollan sobre el hombro opuesto. Seis tallos de trigo azul pálido enmarcan su cabeza, y lleva pendientes en forma de icicle y adornos que se asemejan a copos de nieve sobre su cabeza. Su túnica azul está salpicada con un patrón similar a la escarcha en el abdomen, y su capa está hecha de nieve con grandes copos de nieve azules en los hombros. Sus antebrazos están principalmente cubiertos de hielo, con solo sus dedos y pequeñas partes de sus antebrazos teniendo piel visible, y lleva un pequeño anillo o pedazo de nieve en el dedo anular izquierdo. Las únicas partes verdes en su persona son sus ojos y la cinta verde que sostiene, que se parece mucho a la cinta del cabello de Perséfone. Detrás de ella aparece un cuerno de la abundancia, cubierto de nieve y sin contener alimentos.
+
+### Historia
+
+Deméter se presenta ante Zagreo después de que él llega a la superficie por primera vez y le presta sus bendiciones para ayudarlo a escapar del Inframundo. Cuando Hades se entera de que Deméter está ayudando a Zagreo, siente miedo hacia ella y es una de las razones por las que mantiene en secreto la existencia de Perséfone, parcialmente por temor a lo que ella haría si supiera la verdad sobre la desaparición de Perséfone, esto se debe a Zeus, quien la tomó por sorpresa y sin consultarla ni a ella ni a Hades. Incluso si Perséfone quisiera unirse a Hades, a quien su madre no aprueba y al que culparía por todo, Deméter no aceptaría escuchar que su hija tomó esa decisión por su cuenta. Ni siquiera Zeus podría contener su furia si Deméter descubriera toda la verdad.
+
+### Entrada del Códice
+
+… Con el tiempo, los mortales han llegado a temer a la gran Deméter, la más anciana entre las deidades olímpicas, diosa de las estaciones, portadora y arrebatadora de la abundancia. Mucho se susurra de ella, al mismo tono de voz que se reserva para el señor de estos dominios. Hubo un tiempo en que repartía con generosidad los drones de la vida y el sustento, hasta que un infortunio la cambió tanto que jamás volvió a mostrarse tan dadivosa. Los mortales que antaño le pedían abundancia ahora le suplican clemencia. Tengo entendido que, en contra de la creencia popular, la gran Deméter no guarda parentesco directo con el señor Hades ni con sus hermanos del Olimpo, pues nació de una estirpe de titanes aún más ancestral. No cabe duda de que se ha esforzado por distanciarse de Zeus en particular, pasando largas temporadas alejada del Olimpo en busca de algo. O alguien. Tampoco sé nada al respecto. Tan solo los murmullos de las sombras que descienden a este reino a causa del implacable frío o de la hambruna. Sin duda, rezan para que el ciclo de las estaciones mejore pronto.
+
+---
+
+## Cronos
+
+Cronos es el Titán del Tiempo, el padre de Hades, Poseidón y Zeus, y el principal antagonista de Hades II.
+
+Ha escapado de su encarcelamiento en las profundidades del Inframundo y ha capturado a su hijo Hades para librar guerra contra el Olimpo.
+
+### Título
+
+Titan del Tiempo
+
+### Relaciones
+
+- Urano (padre)
+- Gaia (Madre)
+- Rea (esposa)
+- Hades (Hijo)
+- Poseidón (Hijo)
+- Zeus (Hijo)
+- Atena (nieta)
+- Ares (nieto)
+- Artemisa (nieta)
+- Apolo (nieto)
+- Hefesto (nieto)
+- Hermes (nieto)
+- Dioniso (nieto)
+- Zagreo (nieto)
+- Melinoe (nieta)
+
+### Afiliación
+
+los Titanes
+
+### Doblaje
+
+Logan Cunnigham
+
+### Características y Personalidad
+
+Actualmente no se sabe mucho sobre la personalidad de Cronos, aunque se puede suponer que era tan prejuicioso, corrupto y despiadado como el resto de los Titanes durante su reinado. Cronos se muestra como arrogante, frío y calculador, siendo apático hacia los esfuerzos de Melinoë por liberar el Inframundo y, en última instancia, a su familia de la esclavitud, pero no carece de humor, ya que tiende a burlarse y ridiculizar a Melinoë a lo largo de su viaje e incluso durante su pelea, mostrando un lado diplomático al preferir siempre las conversaciones antes de la lucha.
+
+Aparentemente es odiado y temido por todos sus hijos debido a que fue un padre cruel y terrible para ellos, aunque Hades admite fácilmente que al menos fue un mejor padre para ellos que Hyperion lo fue para Deméter.
+
+### Descripción fisica
+
+Descrito por Melinoë como un "anciano", Cronos tiene piel gris oscuro con venas doradas alrededor de su torso y cabello blanco corto, peinado hacia atrás. A diferencia de sus hijos, tiene una figura corporal más delgada y grandes alas oscuras. Lleva una túnica incrustada con un motivo de reloj de arena dorado y un collar dorado alrededor de su cuello con números romanos del 1 al 12.
+
+### Historia
+
+**Antes de Hades**
+
+Cronos gobernaba la tierra en tiempos antiguos, pero fue derrocado por sus tres hijos y cargos: Zeus, Poseidón, Hades, Hera, Deméter y Hestia, los olímpicos fundadores. Lo cortaron en innumerables pedazos con su propia guadaña y los dispersaron por las profundidades más oscuras del Tártaro.
+
+**Durante Hades**
+
+Durante las tribulaciones del Príncipe del Inframundo, Zagreo, se encontró con una gran cantidad de Sangre de Titán, que pertenecía a Cronos. A pesar de las advertencias de su padre Hades de que albergaba un poder más allá de su comprensión, él la sacrificó repetidamente para despertar los distintos aspectos de sus Armas Infernales. Esto, combinado con las súplicas y rituales de los cultistas sátiros que invadían el Templo de Estigia, permitió que Cronos regenerara su forma corporal.
+
+**Antes de Hades II**
+
+Cronos apareció repentinamente en la Casa de Hades, usando su control sobre el tiempo para encarcelar a la mayoría de sus habitantes en un momento que nunca pasaría. Después de asegurar la seguridad de su hija Melinoë, Hades confrontó a su padre, quien explicó que buscaba venganza contra los dioses por robarle su trono y matarlo. Ordenó a Hades que le dijera la ubicación de las Tres Parcas, pero Hades no lo sabía. En lugar de congelar a su hijo en el tiempo, Cronos lo encarceló en la cámara de Sísifo en el Tártaro para que sus secuaces lo atormentaran por su entretenimiento. Luego visitó a Caos, quien, sin conocer su plan, usó su omnisciencia para encontrar la ubicación de las Parcas. Cronos usó este conocimiento para capturar a las Parcas, encerrándolas en algún lugar del Inframundo.
+
+**Hades II**
+
+Con el liderazgo del Inframundo desestabilizado, Cronos puso en marcha su plan. Disruptió deliberadamente el funcionamiento del Inframundo, creando una situación en la que las almas perdidas de los mortales muertos se estancarían en el Érebo y sus cuerpos permanecerían animados en el plano mortal. Con su ejército de fieles cultistas, organizó a estos muertos en un ejército que marcharía sobre el Monte Olimpo para destronar a los dioses. Lograron contener con éxito las fuerzas no muertas durante años, pero los ataques solo aumentaban en intensidad, ya que los muertos no podían morir permanentemente sin ser procesados a través del Érebo.
+
+Sin que el Titán lo supiera, las fuerzas leales a Hades se habían reunido bajo la bandera de Hécate y planeaban matarlo una vez más. Uno de estos soldados era Melinoë, hija de Hades, quien pudo infiltrarse repetidamente en la Casa de Hades y matar a Cronos. Sin embargo, no pudo infligir daño a su cuerpo tan exhaustivamente como lo hicieron los olímpicos, y él se regeneraba mucho más rápido para continuar su asalto a los dioses.
+
