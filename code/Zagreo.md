@@ -64,6 +64,26 @@ Después de descubrir la verdad sobre su origen, decide huir del reino de los mu
 
 Debido a su crianza protegida, a menudo Zagreo muestra una falta de conocimiento sobre el mundo exterior al Inframundo, confiando en que otros le proporcionen información sobre este.</p>
 <hr>
+<h2 class="text-center">Descripción Fisica</h2>
+<p>
+
+**General**
+
+Debido a su herencia mortal, Zagreo es algo pequeño para ser un dios, considerablemente más bajo que Hades y aproximadamente una cabeza más bajo que Perséfone. Presumiblemente, tiene una altura promedio para un mortal, ya que le dice al Minotauro que tiene la misma altura que Teseo. Tiene heterocromía, con un ojo siendo rojo como el de su padre y el otro verde como el de su madre. Su cabello negro es similar al de su padre, pero con la textura espinosa de su madre. Su piel es bastante pálida (bronceada según los estándares del inframundo), y es físicamente fuerte y musculoso. Sus pies están perpetuamente en llamas. Zagreo está bien esculpido, tanto que incluso Afrodita lo nota. Aunque es considerado delgado para ser un dios y ha sido llamado flaco, sería considerado por encima del promedio en tamaño según los estándares mortales. Parece que extrañamente sangra rojo.
+
+**Descripción de la Ropa**
+
+Zagreo lleva una toga roja y negra, colgando sobre su hombro izquierdo con su pecho derecho expuesto. También lleva un cinturón blanco, visualmente similar a un hueso, con calaveras talladas en él. En su hombro izquierdo hay una placa de hombro metálica que se asemeja a las tres cabezas de Cerbero mordiendo su hombro. Tiene cintas rojas envueltas en un patrón de equis en su brazo derecho y dos pulseras de cuero delgadas en su antebrazo izquierdo, una cerca de su muñeca y la otra cerca de su codo. También lleva pantalones rojo sangre. En la coronilla de su cabeza hay una pequeña corona de laurel, comenzando como rojo en la base de su cabeza y convirtiéndose en amarillo dorado cerca de la frente. Las hojas amarillas delanteras de su corona de laurel a menudo se representan flotando alrededor de su cabeza.</p>
+<hr>
+<h2 class="text-center">Historia</h2>
+<p>El Príncipe Zagreo ahora busca más respuestas que preguntas. Ahora ha encontrado su propósito: encontrar a su verdadera madre y escapar del lugar donde fue criado, en las profundidades del infierno mismo.
+
+Mientras se prepara para partir, Zagreo le dice a todos que va a buscar a su madre biológica, Perséfone, y con la esperanza de hacerlo, traerla de vuelta a la Casa de Hades. El príncipe eventualmente le dice a su padre que seguirá decidido a hacer lo que sea necesario para echar un vistazo al Olimpo y a la exuberante y hermosa superficie. Incluso desobedecer las órdenes de su padre no lo detendrá en su camino.
+
+Después de fallar numerosas veces, no se rendiría, pero aún así tendría charlas con otras sombras y personas. Primero acude a NIcte en busca de consejo y orientación, con su confianza sobre el viaje lamentado de Zag, incluso hasta el punto en que inevitablemente se vuelve contra Hades, con quien trabajó una vez mientras vigilaba la Casa. Básicamente, le dice a Zagreo que "le dé lo que se merece" y "lo destruya".
+
+Después de la décima visita a su madre, finalmente logra convencerla de regresar y así son llevados por Caronte a la Casa de Hades.</p>
+<hr>
 <h2 class="text-center">Entrada del Códice</h2>
 <section class="row">
 <article class="col-12 col-md-6">
