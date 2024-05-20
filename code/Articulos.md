@@ -727,6 +727,14 @@ Para ganarte el favor de Eurídice, hay que anular primero el contrato de Orfeo 
 
 Eurídice es retratada como una figura gentil y compasiva, pero también como alguien profundamente afectado por su situación en el Inframundo. A pesar de su tristeza, muestra una fuerza interior y una habilidad para encontrar belleza y consuelo en la música y la cocina.
 
+Eurídice, prisionera en el Hades y destinada a los prados de Asfódelo, hizo lo mejor posible en una mala situación y se estableció en un pequeño lugar en una isla en el río Flegetonte, donde Zagreo puede encontrarla ocasionalmente actuando con calma como si todo estuviera "bien," a pesar de estar en un lugar terrible.
+
+Aunque perdió todo debido a su muerte, Eurídice es una de las personas más optimistas que se pueden encontrar en el Inframundo. Es una mujer fuerte que sabe cómo adaptarse y encontrar alegría y productividad a través de su música y cocina. La manera en que canta 'Good Riddance' suena alegre, a diferencia del melancólico Orfeo, lo que sugiere que puede dejar el pasado atrás a pesar de todo lo que ha perdido.
+
+No fue particularmente buena ni mala en vida y generalmente está feliz en su residencia en Asfódelo. Con una personalidad despreocupada, positiva y sociable, disfruta dedicándose a sus canciones favoritas y a la cocina después de su muerte. A diferencia de Orfeo, ella dejó atrás sus lágrimas y siguió adelante. Es amigable, generosa y acogedora, incluso cocina para Zagreo. El sabor es exquisito.
+
+No lo admite, pero es bastante terca y no se rinde fácilmente. Eurídice no está realmente enojada o amargada con Orfeo. No le pidió que la rescatara y piensa que él está siendo demasiado dramático, pero finge no importarle y afirma orgullosamente estar bien consigo misma y con cómo ocurrieron las cosas, aunque lo hace de manera insistente. Aún pueden estar juntos, pero ninguno de los dos cede.
+
 ### Descripción fisica
 
 Eurídice es una ninfa del roble, adornada con tonos vibrantes y hojas. Como ninfa, siempre está descalza y sin adornos. Su piel, que recuerda a la corteza de un árbol, y su cabello peinado en un moño afro que se asemeja a un árbol atado, enfatizan aún más su conexión con la naturaleza. Constantemente sostiene una rama con hojas de roble en la boca, lo que le da un aire de deducción. Tiene ojos avellana y pendientes de hojas de roble.
