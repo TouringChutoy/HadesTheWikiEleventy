@@ -98,7 +98,7 @@ NOTA: Los efectos de daño en el tiempo aplicados antes de que la Hidra se volvi
 <hr>
 <section class="row">
 <article class="col-12 col-md-6">
-<img width="50%" height="auto" src="/img/HidraVerde.webp" class="img-fluid rounded mx-auto d-block" alt="HidraVerde">
+<img width="50%" height="auto" src="/img/HIdraVerde.webp" class="img-fluid rounded mx-auto d-block" alt="HidraVerde">
 </article>
 <article class="col-12 col-md-6">
 <p>
