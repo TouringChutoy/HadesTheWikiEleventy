@@ -48,7 +48,7 @@ description: Página de Zeus de HadesTheWiki
                 <li><a href="/Dioniso" target="_blank" class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Dioniso</a>(Hijo)</li>
                 <li>Hercules(Hijo)</li>
                 <li><a href="/Zagreo" target="_blank" class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Zagreo</a>(Sobrino)</li>
-                <li><a href="/Melino" target="_blank" class="link-success link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Melinoe</a>(Sobrina)</li>
+                <li><a href="/Melinoe" target="_blank" class="link-success link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Melinoe</a>(Sobrina)</li>
                 </td>
               </tr>
               <tr>

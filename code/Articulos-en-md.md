@@ -1114,9 +1114,9 @@ Poseidón es uno de los dioses que acude en ayuda de Zagreo. Está muy emocionad
 
 ## Atena
 
-Atene es la Diosa Olímpica de la sabiduría y la guerra estratégica. Ofrece bendiciones a Zagreo que hacen que sus habilidades desvíen los ataques enemigos. Además, también proporciona bendiciones que reducen el daño o aumentan otras opciones defensivas.
+Atena es la Diosa Olímpica de la sabiduría y la guerra estratégica. Ofrece bendiciones a Zagreo que hacen que sus habilidades desvíen los ataques enemigos. Además, también proporciona bendiciones que reducen el daño o aumentan otras opciones defensivas.
 
-Atene brinda excelentes opciones defensivas con sus bendiciones, protegiéndote del daño al desviar proyectiles y ataques cuerpo a cuerpo enemigos, así como reducir el daño que recibirás en una partida.
+Atena brinda excelentes opciones defensivas con sus bendiciones, protegiéndote del daño al desviar proyectiles y ataques cuerpo a cuerpo enemigos, así como reducir el daño que recibirás en una partida.
 
 Su Maldición de Estado característica es Expuesto, lo que hace que los enemigos reciban daño adicional desde atrás. Esto se acumula con los bonos de Ataque por la Espalda ofrecidos por el Espejo de la Noche.
 
@@ -1137,12 +1137,12 @@ Diosa de la sabiduria
 - Hera (Madrastra)
 - Ares (Medio Hermano Menor)
 - Hefesto (Medio Hermano Menor)
-- Artemis (Media Hermana Menor)
-- Apollo (Media Hermana Menor)
-- Hermes (Media Hermana Menor)
-- Dioniso (Media Hermana Menor)
+- Artemisa (Media Hermana Menor)
+- Apollo (Medio Hermano Menor)
+- Hermes (Medio Hermano Menor)
+- Dioniso (Medio Hermano Menor)
 - Cronos (Abuelo Paterno)
-- Rea (Abuela Materna)
+- Rea (Abuela Paterna)
 - Zagreo (Primo Paterno)
 - Melinoe (Prima Paterna)
 
@@ -1156,29 +1156,29 @@ Marin Miller
 
 ### Afinidad
 
-Si le das Néctar, Atene te dará el Colgante de Búho.
+Si le das Néctar, Atena te dará el Colgante de Búho.
 
-La barra de afinidad de Atene se maximiza a 7 corazones.
+La barra de afinidad de Atena se maximiza a 7 corazones.
 
 #### Favor
 
-El favor de Atene requiere ver las tres observaciones de Atene después de completar una partida con éxito, reconociendo la fuerza de Zagreo.
+El favor de Atena requiere ver las tres observaciones de Atena después de completar una partida con éxito, reconociendo la fuerza de Zagreo.
 
 ### Características y Personalidad
 
-Serena, grácil y refinada, Atene es la primera deidad contactada por Nicte y ofrece su ayuda a Zagreo. Como diosa de la sabiduría y la estrategia militar, Atene desea sinceramente que su primo escape de su injusto encarcelamiento con un plan elaborado.
+Serena, grácil y refinada, Atena es la primera deidad contactada por Nicte y ofrece su ayuda a Zagreo. Como diosa de la sabiduría y la estrategia militar, Atena desea sinceramente que su primo escape de su injusto encarcelamiento con un plan elaborado.
 
-Atene tiende a ser menos personal con Zagreo en comparación con los otros dioses y no comparte detalles de su vida personal o intereses, ya que siempre se enfoca en ayudar a Zagreo a escapar, siendo la única olímpica dispuesta a ayudar simplemente porque es lo correcto. Ella respeta genuinamente a su primo como miembro de su familia.
+Atena tiende a ser menos personal con Zagreo en comparación con los otros dioses y no comparte detalles de su vida personal o intereses, ya que siempre se enfoca en ayudar a Zagreo a escapar, siendo la única olímpica dispuesta a ayudar simplemente porque es lo correcto. Ella respeta genuinamente a su primo como miembro de su familia.
 
-Atene puede considerarse claramente la hija favorita de su padre Zeus, quien constantemente presume de su astucia, aunque Atene niega cualquier semejanza con él. Por otro lado, está igualmente dispuesta a castigar a Zagreo por aceptar la bendición de otro dios en lugar de la suya cuando tiene la opción. De hecho, detrás de su imagen de hija "perfecta" y obediente, tranquila y calculadora, Atene puede perder la compostura al interactuar con otros dioses, como es el caso con Afrodita, con quien se lleva como agua y aceite.
+Atena puede considerarse claramente la hija favorita de su padre Zeus, quien constantemente presume de su astucia, aunque Atena niega cualquier semejanza con él. Por otro lado, está igualmente dispuesta a castigar a Zagreo por aceptar la bendición de otro dios en lugar de la suya cuando tiene la opción. De hecho, detrás de su imagen de hija "perfecta" y obediente, tranquila y calculadora, Atena puede perder la compostura al interactuar con otros dioses, como es el caso con Afrodita, con quien se lleva como agua y aceite.
 
-A pesar de sus buenas intenciones, los comentarios de los Olímpicos indican que Atene es una especie de "sabelotodo", una "genio insoportable" que considera sus ideas superiores a las de los demás. Artemisa comenta que nunca sabe con certeza si Atene está tratando de demostrar algo o de presumir. Otros dioses olímpicos indican que es algo aduladora y que su benevolencia es solo un acto.
+A pesar de sus buenas intenciones, los comentarios de los Olímpicos indican que Atena es una especie de "sabelotodo", una "genio insoportable" que considera sus ideas superiores a las de los demás. Artemisa comenta que nunca sabe con certeza si Atena está tratando de demostrar algo o de presumir. Otros dioses olímpicos indican que es algo aduladora y que su benevolencia es solo un acto.
 
-De hecho, bajo toda su aparente benevolencia, Atene está lejos de ser tan sabia como se esperaría de una diosa de la sabiduría, teniendo sus propios secretos y posiblemente habiendo cometido errores graves en su pasado. Caos especula que la verdadera razón por la que Atene carga con todo sobre sus hombros y está tan ansiosa por ayudar a Zagreo a escapar del inframundo es que lo ve como una forma de redención personal, considerándolo "una herramienta con la cual su familia rota aún puede ser reparada" y para corregir la ruptura entre los dioses olímpicos y ctónicos.
+De hecho, bajo toda su aparente benevolencia, Atena está lejos de ser tan sabia como se esperaría de una diosa de la sabiduría, teniendo sus propios secretos y posiblemente habiendo cometido errores graves en su pasado. Caos especula que la verdadera razón por la que Atena carga con todo sobre sus hombros y está tan ansiosa por ayudar a Zagreo a escapar del inframundo es que lo ve como una forma de redención personal, considerándolo "una herramienta con la cual su familia rota aún puede ser reparada" y para corregir la ruptura entre los dioses olímpicos y ctónicos.
 
 ### Descripción Fisica
 
-Atene se presenta como una figura imponente de guerrera, alta y erguida, con un tono de piel gris oscuro, posando como una estatua, con el cabello trenzado de color lavanda y ojos a juego. Lleva una brillante armadura dorada con una Gorgona estampada en la cadera y túnicas ligeras, coronada con un casco azul con un penacho de crin de caballo. Sostiene un búho, su animal sagrado, en una mano y está armada con su característico escudo dorado, adornado con discos dorados en la frente, las orejas y el pecho.
+Atena se presenta como una figura imponente de guerrera, alta y erguida, con un tono de piel gris oscuro, posando como una estatua, con el cabello trenzado de color lavanda y ojos a juego. Lleva una brillante armadura dorada con una Gorgona estampada en la cadera y túnicas ligeras, coronada con un casco azul con un penacho de crin de caballo. Sostiene un búho, su animal sagrado, en una mano y está armada con su característico escudo dorado, adornado con discos dorados en la frente, las orejas y el pecho.
 
 ### Historia
 
@@ -1210,8 +1210,8 @@ Diosa del Amor
 
 Uranus (Padre)
 Thalassa (Madre)
-The Titans (Parientes)
-Hephaestus (Esposo)
+Los Titanes (Parientes)
+Hefesto (Esposo)
 Ares (Cuñado/Amante)
 
 ### Afiliación
@@ -1262,7 +1262,7 @@ Aphrodite no se mostrará de inmediato a Zagreo, pero eventualmente se acercará
 
 Artemis, la Diosa Olímpica de la caza y la hermana gemela mayor de Apolo, otorga bendiciones a Zagreo que le dan la oportunidad de infligir daño crítico con sus habilidades. Además, también ofrece bendiciones que mejoran las habilidades de lanzamiento.
 
-Aunque el bono de daño ofrecido en sus bendiciones es menor en comparación con otros dioses, los golpes críticos que ofrecen infligen tres veces el daño de una habilidad normal, proporcionando uno de los mejores aumentos de DPS en general ofrecidos por cualquier dios o diosa individual. Las bendiciones de Artemis, cuando se combinan correctamente con otras bendiciones, tienen el potencial de infligir un daño tremendo. Además, sus bendiciones relacionadas con el lanzamiento aumentan tu munición total o añaden un proyectil, lo que permite una herramienta de largo alcance poderosa.
+Aunque el bono de daño ofrecido en sus bendiciones es menor en comparación con otros dioses, los golpes críticos que ofrecen infligen tres veces el daño de una habilidad normal, proporcionando uno de los mejores aumentos de DPS en general ofrecidos por cualquier dios o diosa individual. Las bendiciones de Artemisa, cuando se combinan correctamente con otras bendiciones, tienen el potencial de infligir un daño tremendo. Además, sus bendiciones relacionadas con el lanzamiento aumentan tu munición total o añaden un proyectil, lo que permite una herramienta de largo alcance poderosa.
 
 Su maldición de estado distintiva es Marcada, que aumenta la probabilidad de infligir un golpe crítico al enemigo afectado, consumiendo la maldición y volviéndola a aplicar a un objetivo cercano. Esto básicamente te permite acumular golpes críticos en una multitud. Este aumento de probabilidad se acumulará con sus bendiciones que ofrecen probabilidad de golpe crítico.
 
@@ -1311,15 +1311,15 @@ El favor de Artemisa requiere ver múltiples líneas de diálogo en las que ella
 
 ### Características y Personalidad
 
-Artemis es reservada, poco sociable e indiferente hacia su familia olímpica. Como diosa ligada a la caza y experta arquera, prefiere retirarse al bosque y estar sola o con sus ninfas, dedicándose a la caza u otras actividades que no impliquen interacción social o pasar mucho tiempo con su ruidosa y complicada familia.
+Artemisa es reservada, poco sociable e indiferente hacia su familia olímpica. Como diosa ligada a la caza y experta arquera, prefiere retirarse al bosque y estar sola o con sus ninfas, dedicándose a la caza u otras actividades que no impliquen interacción social o pasar mucho tiempo con su ruidosa y complicada familia.
 
 Como una deidad estoica, prefiere conectar con la naturaleza a través de la caza y mantenerse apartada en su propio mundo privado. Se la ve como "una loba solitaria". Según otros dioses, es socialmente torpe, quizás debido a su identificación con la naturaleza salvaje o a su falta de interacción social debido a sus frecuentes salidas nocturnas.
 
 La Diosa de la Caza suele ser franca y práctica, cuestionando a Zagreo sobre su elección del Riel de Adamantina, considerándolo demasiado ruidoso y poco efectivo como arma de caza. Prefiere el tradicional arco y flecha.
 
-A pesar de no ser la "perfecta Atena", intenta actuar como una hija obediente, aunque solo recibe críticas de su padre. Artemis puede ser bastante sarcástica y no tolera que los dioses se entrometan donde no son bienvenidos o cuestionen por qué sigue soltera. Es una diosa vengativa y se rebela rápidamente, sin temor a herir susceptibilidades de otros dioses si es necesario.
+A pesar de no ser la "perfecta Atena", intenta actuar como una hija obediente, aunque solo recibe críticas de su padre. Artemisa puede ser bastante sarcástica y no tolera que los dioses se entrometan donde no son bienvenidos o cuestionen por qué sigue soltera. Es una diosa vengativa y se rebela rápidamente, sin temor a herir susceptibilidades de otros dioses si es necesario.
 
-Distante, reservada, experta en esquivar a los demás, Artemis no es franca sobre sus sentimientos y es la única que no utiliza términos afectivos para referirse a Zagreo, llamándolo únicamente por su nombre. Él puede considerarla como un modelo a seguir distante, aunque en realidad ella se siente bastante nerviosa e insegura de cómo comportarse en su presencia. Con el tiempo, puede admitir de manera algo despectiva que lo considera uno de sus mejores amigos. También trata a las ninfas como iguales, a pesar de ser deidades menores, lo cual es bastante revelador para una diosa de su estatus.
+Distante, reservada, experta en esquivar a los demás, Artemisa no es franca sobre sus sentimientos y es la única que no utiliza términos afectivos para referirse a Zagreo, llamándolo únicamente por su nombre. Él puede considerarla como un modelo a seguir distante, aunque en realidad ella se siente bastante nerviosa e insegura de cómo comportarse en su presencia. Con el tiempo, puede admitir de manera algo despectiva que lo considera uno de sus mejores amigos. También trata a las ninfas como iguales, a pesar de ser deidades menores, lo cual es bastante revelador para una diosa de su estatus.
 
 ### Descripción Fisica
 
@@ -1327,7 +1327,7 @@ Artemisa se presenta como una ágil doncella joven con cabello y piel verdes, ad
 
 ### Historia
 
-Artemis es uno de los dioses olímpicos que ofrece su ayuda a Zagreo. Sus conversaciones a menudo incluyen charlas sobre caza y palabras de ánimo para Zagreo. También expresa libremente su opinión sobre los demás, y a menudo menciona su incomodidad porque siempre están encima de ella o malinterpretan sus intenciones y dominio.
+Artemisa es uno de los dioses olímpicos que ofrece su ayuda a Zagreo. Sus conversaciones a menudo incluyen charlas sobre caza y palabras de ánimo para Zagreo. También expresa libremente su opinión sobre los demás, y a menudo menciona su incomodidad porque siempre están encima de ella o malinterpretan sus intenciones y dominio.
 
 ### Entrada del Códice
 
@@ -1574,6 +1574,8 @@ Adorna su cabeza con una corona de laurel que brilla como brasas cuando está so
 ¿Por qué estás luchando? ¿Qué esperas probar? Y si por algún golpe del destino prevaleces, ¿qué entonces? Considera todo esto mientras estás fuera y alrededor.
 
 (no hay más escrito...)"
+
+---
 
 ## Demeter
 
